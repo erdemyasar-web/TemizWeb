@@ -1,0 +1,54 @@
+! -----------------------------------------------------------------------------
+! TemizWeb — Reddit ve desteklenen forum platformları
+! Siteyi engellemez; yalnızca yüksek güvenli NSFW/yetişkin kartlarını gizler.
+! -----------------------------------------------------------------------------
+
+! Reddit — yeni ve eski arayüz
+reddit.com##shreddit-post[nsfw]
+reddit.com##shreddit-post[content-href*="/r/nsfw" i]
+reddit.com##article:has([aria-label*="NSFW" i])
+reddit.com##div[data-testid="post-container"]:has([aria-label*="NSFW" i])
+
+reddit.com##shreddit-post:has-text(/\b(NSFW|Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX)\b/i)
+reddit.com##article:has-text(/\b(NSFW|Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX)\b/i)
+reddit.com##div[data-testid="post-container"]:has-text(/\b(NSFW|Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX)\b/i)
+
+reddit.com##shreddit-post:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak(?:lık)?|erotik\s+(?:video|fotoğraf|görüntü)|seks\s+(?:videosu|izle)|ifşa\s+(?:video|fotoğraf)|yetişkin\s+video)\b/i)
+reddit.com##article:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak(?:lık)?|erotik\s+(?:video|fotoğraf|görüntü)|seks\s+(?:videosu|izle)|ifşa\s+(?:video|fotoğraf)|yetişkin\s+video)\b/i)
+
+! Reddit yetişkin topluluk bağlantıları
+reddit.com##a[href*="/r/nsfw" i]
+reddit.com##a[href*="/r/gonewild" i]
+reddit.com##a[href*="/r/hentai" i]
+reddit.com##a[href*="/r/rule34" i]
+reddit.com##a[href*="/r/porn" i]
+
+! Quora — yalnızca soru/cevap kartı düzeyinde
+quora.com##div[role="listitem"]:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+quora.com##div[role="listitem"]:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)
+
+! Tumblr — yetişkin etiketleri ve gönderi kartları
+tumblr.com##article:has-text(/\b(NSFW|Pornhub|OnlyFans|Fansly|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+tumblr.com##a[href*="/tagged/nsfw" i]
+tumblr.com##a[href*="/tagged/porn" i]
+tumblr.com##a[href*="/tagged/hentai" i]
+tumblr.com##a[href*="/tagged/rule-34" i]
+
+! X/Twitter web — yalnızca açık yetişkin hizmet/etiket kartları
+x.com##article:has-text(/\b(NSFW|Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX)\b/i)
+twitter.com##article:has-text(/\b(NSFW|Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX)\b/i)
+
+! Ekşi Sözlük — yalnızca yüksek güvenli yetişkin başlıkları
+eksisozluk.com##li:has(a[href*="/porno" i])
+eksisozluk.com##li:has(a[href*="/pornografi" i])
+eksisozluk.com##li:has(a[href*="/hentai" i])
+eksisozluk.com##li:has(a[href*="/onlyfans" i])
+eksisozluk.com##article:has-text(/\b(porno(?:grafi|grafik|su)?|hentai|onlyfans|seks\s+videosu|çıplak\s+fotoğraf)\b/i)
+
+! Genel Discourse forumları — yalnızca konu listesi satırında yüksek güvenli terimler
+##tr.topic-list-item:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+##tr.topic-list-item:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)
+
+! Genel XenForo forumları — yalnızca konu satırı
+##div.structItem--thread:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+##div.structItem--thread:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)

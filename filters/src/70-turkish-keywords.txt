@@ -1,0 +1,33 @@
+! -----------------------------------------------------------------------------
+! TemizWeb — Türkçe ve global anahtar kelime politikası
+! Bu dosya tek başına evrensel sayfa gizleme yapmaz.
+! Diğer dosyalardaki kart ve sorgu kuralları için ortak politika belgesidir.
+! -----------------------------------------------------------------------------
+
+! Yüksek güvenli Türkçe terimler:
+! porno, pornografi, pornografik, pornosu
+! seks videosu, seks izle
+! erotik video, erotik fotoğraf, erotik görüntü
+! çıplak fotoğraf, çıplak video
+! ifşa video, ifşa fotoğraf
+! yetişkin video, yetişkin içerik izle
+! hentai, rule 34, onlyfans ifşa
+
+! Yüksek güvenli global terimler:
+! porn, pornography, xxx, hentai, rule 34
+! Pornhub, OnlyFans leak, Fansly leak, GoneWild
+! nude photos, nude videos, adult video, hardcore
+
+! Tek başına evrensel biçimde engellenmeyen bağlamsal kelimeler:
+! cinsellik, seks, erotizm, çıplaklık, anatomi, meme, göğüs,
+! bikini, mayo, dekolte, model, masaj, üreme, doğum.
+! Bunlar sağlık, haber, spor, sanat, eğitim veya hukuk bağlamında kullanılabilir.
+
+! Uygulama ilkesi:
+! - Kesin terimler arama sorgularında ve belirli içerik kartlarında kullanılabilir.
+! - Bağlamsal terimler yalnızca başka yüksek güvenli kelimelerle birleştiğinde hedeflenir.
+! - Tüm web sayfasını hedefleyen evrensel :has-text kuralları eklenmez.
+! - Büyük yetişkin alan adı listesi workflow tarafından HaGeZi NSFW kaynağından
+!   filters/dist/temizweb-main.txt içine ayrıca birleştirilir.
+! - Bikini, mayo, dekolte ve etiketsiz görseller sonraki cihaz içi görsel model
+!   aşamasında ele alınmalıdır.
