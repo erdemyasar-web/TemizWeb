@@ -1,0 +1,38 @@
+! -----------------------------------------------------------------------------
+! YouTube — amaçlı kullanım korunur; ana akış, Shorts ve öneriler kaldırılır
+! -----------------------------------------------------------------------------
+
+! Masaüstü ana sayfa akışı — yalnızca Home
+www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-grid-renderer
+youtube.com##ytd-browse[page-subtype="home"] ytd-rich-grid-renderer
+
+! Mobil ana sayfa akışı — abonelikler ve kanal gridleri korunur
+m.youtube.com##ytm-browse[page-subtype="home"] ytm-rich-grid-renderer
+m.youtube.com##ytm-browse[tab-identifier="FEwhat_to_watch"] ytm-rich-grid-renderer
+m.youtube.com##ytm-browse[browse-id="FEwhat_to_watch"] ytm-rich-grid-renderer
+
+! Shorts gezinme girişleri ve rafları
+youtube.com##ytd-guide-entry-renderer:has(a[href^="/shorts"])
+youtube.com##ytd-mini-guide-entry-renderer:has(a[href^="/shorts"])
+youtube.com##ytd-rich-section-renderer:has(a[href^="/shorts"])
+youtube.com##ytd-reel-shelf-renderer
+youtube.com##ytd-rich-item-renderer:has(a[href^="/shorts/"])
+youtube.com##ytd-video-renderer:has(a[href^="/shorts/"])
+m.youtube.com##ytm-pivot-bar-item-renderer:has(a[href*="/shorts"])
+m.youtube.com##ytm-pivot-bar-item-renderer:has-text(/^Shorts$/i)
+m.youtube.com##ytm-guide-entry-renderer:has(a[href*="/shorts"])
+m.youtube.com##ytm-reel-shelf-renderer
+m.youtube.com##ytm-shorts-lockup-view-model
+m.youtube.com##ytm-video-with-context-renderer:has(a[href*="/shorts/"])
+m.youtube.com##ytm-rich-item-renderer:has(a[href*="/shorts/"])
+
+! İzleme sayfası önerileri ve video sonu önerileri
+youtube.com##ytd-watch-next-secondary-results-renderer
+m.youtube.com##ytm-item-section-renderer:has(ytm-compact-video-renderer)
+youtube.com##.ytp-endscreen-content
+m.youtube.com##.ytp-endscreen-content
+
+! Açık yetişkin hizmet/etiket başlıklı video kartları
+www.youtube.com##ytd-video-renderer:has-text(/\b(NSFW|OnlyFans|Pornhub|GoneWild|Rule\s*34)\b/i)
+www.youtube.com##ytd-rich-item-renderer:has-text(/\b(NSFW|OnlyFans|Pornhub|GoneWild|Rule\s*34)\b/i)
+m.youtube.com##ytm-video-with-context-renderer:has-text(/\b(NSFW|OnlyFans|Pornhub|GoneWild|Rule\s*34)\b/i)

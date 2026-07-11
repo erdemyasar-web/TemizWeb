@@ -1,0 +1,11 @@
+! -----------------------------------------------------------------------------
+! Reddit — siteyi engellemeden, NSFW işaretli veya açık erotik kartları gizler
+! -----------------------------------------------------------------------------
+reddit.com##shreddit-post[nsfw]
+reddit.com##shreddit-post[content-href*="/r/nsfw" i]
+reddit.com##article:has([aria-label*="NSFW" i])
+reddit.com##div[data-testid="post-container"]:has([aria-label*="NSFW" i])
+reddit.com##shreddit-post:has-text(/\b(NSFW|OnlyFans|Pornhub|GoneWild|Rule\s*34)\b/i)
+reddit.com##article:has-text(/\b(NSFW|OnlyFans|Pornhub|GoneWild|Rule\s*34)\b/i)
+reddit.com##shreddit-post:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak(?:lık)?|erotik|müstehcen|seks\s+videosu|ifşa)\b/i)
+reddit.com##article:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak(?:lık)?|erotik|müstehcen|seks\s+videosu|ifşa)\b/i)

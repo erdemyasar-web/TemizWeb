@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>TemizWeb Kurulumu</title>
+<style>
+:root{font-family:system-ui,sans-serif;line-height:1.55}body{max-width:46rem;margin:auto;padding:1.2rem}.card{border:1px solid #8886;border-radius:16px;padding:1.1rem;margin:1rem 0}.button{display:block;padding:1rem;border-radius:12px;text-align:center;text-decoration:none;font-weight:750;background:CanvasText;color:Canvas;margin:.7rem 0}.secondary{background:transparent;color:CanvasText;border:1px solid currentColor}code{overflow-wrap:anywhere}.muted{opacity:.75}</style>
+</head>
+<body>
+<h1>TemizWeb Ultimate</h1>
+<p>Tek filtre bağlantısıyla yetişkin alan adlarını, desteklenen platformlardaki NSFW kartlarını ve bağımlılık oluşturan bazı akışları azaltır.</p>
+<div class="card">
+<h2>1. Firefox ve uBlock Origin</h2>
+<a class="button secondary" href="https://play.google.com/store/apps/details?id=org.mozilla.firefox">Firefox Android</a>
+<a class="button secondary" href="https://addons.mozilla.org/android/addon/ublock-origin/">uBlock Origin</a>
+</div>
+<div class="card">
+<h2>2. Tek dokunuşla ekle</h2>
+<a id="subscribe" class="button" href="#">TemizWeb filtresini ekle</a>
+<a id="raw" class="button secondary" target="_blank" rel="noopener">Ham filtreyi aç</a>
+<p class="muted">Düğme açılmazsa ham adresi uBlock Origin → Filtre listeleri → Özel → İçe aktar bölümüne yapıştırın.</p>
+<code id="url"></code>
+</div>
+<div class="card"><h2>Korunan işlevler</h2><p>Arama, abonelikler, kanal ve profil sayfaları, doğrudan videolar, mesajlar, haber, sağlık, bankacılık ve e-Devlet. SafeSearch veya YouTube Kısıtlı Mod zorlanmaz.</p></div>
+<script>
+const list='https://raw.githubusercontent.com/erdemyasar-web/TemizWeb/main/filters/dist/temizweb-main.txt';
+const title='TemizWeb Ultimate';
+document.querySelector('#url').textContent=list;
+document.querySelector('#raw').href=list;
+document.querySelector('#subscribe').href=`ubo:subscribe?location=${encodeURIComponent(list)}&title=${encodeURIComponent(title)}`;
+</script>
+</body>
+</html>

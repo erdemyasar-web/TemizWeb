@@ -1,0 +1,11 @@
+! Title: TemizWeb Ultimate
+! Description: Türkçe odaklı NSFW ve dikkat dağıtıcı içerik filtresi; HaGeZi NSFW ile tek listede.
+! Homepage: https://erdemyasar-web.github.io/TemizWeb/
+! License: GPL-3.0-or-later
+! Version: 1.0.0
+! Expires: 12 hours
+! Last modified: BUILD_DATE
+!
+! Gizlilik: cihaz üzerinde çalışır; telemetri veya harici içerik analizi yoktur.
+! SafeSearch ve YouTube Kısıtlı Mod zorlanmaz.
+! Bankacılık, e-Devlet, genel arama, haber ve sağlık siteleri evrensel kelime kurallarıyla filtrelenmez.

@@ -1,0 +1,5 @@
+! -----------------------------------------------------------------------------
+! Dar kapsamlı öneri temizliği — genel sayfa/metin engellemesi yapılmaz
+! -----------------------------------------------------------------------------
+! Google arama sonuçları veya SafeSearch değiştirilmez.
+! Evrensel bikini/mayo/dekolte kuralları kasıtlı olarak yoktur; görsel model aşamasına aittir.

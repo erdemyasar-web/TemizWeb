@@ -1,0 +1,7 @@
+! -----------------------------------------------------------------------------
+! TemizWeb Türkçe yetişkin alan adı eki
+! Yalnızca birincil amacı açık yetişkin içerik olan, elle doğrulanmış alan adları eklenmelidir.
+! Haber, sağlık, eğitim, sanat, Reddit ve genel sosyal platformlar buraya eklenmez.
+! -----------------------------------------------------------------------------
+! Örnek biçim (etkin değildir):
+! ||ornek-yetiskin-alani.invalid^
