@@ -1,0 +1,2 @@
+# TemizWeb DNS hosts list
+

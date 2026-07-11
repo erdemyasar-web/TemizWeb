@@ -1,0 +1,24 @@
+# TemizWeb public DNS / encrypted DNS bypass domains
+# Strict profile only. These domains are NOT included in the balanced profile.
+# Blocking them can interfere with users who intentionally use another encrypted resolver.
+dns.google
+cloudflare-dns.com
+one.one.one.one
+1dot1dot1dot1.cloudflare-dns.com
+quad9.net
+dns.quad9.net
+nextdns.io
+dns.nextdns.io
+adguard-dns.io
+dns.adguard-dns.com
+cleanbrowsing.org
+doh.cleanbrowsing.org
+controld.com
+dns.controld.com
+dns0.eu
+doh.dns0.eu
+mullvad.net
+doh.mullvad.net
+rethinkdns.com
+sky.rethinkdns.com
+max.rethinkdns.com

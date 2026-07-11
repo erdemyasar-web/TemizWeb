@@ -1,0 +1,6 @@
+# TemizWeb Turkish adult supplement
+# One domain per line. Add only domains whose primary purpose is explicit adult content.
+# Do not add news, health, education, art, Reddit, Instagram, X, or general-purpose platforms.
+#
+# Example (inactive):
+# example-adult.invalid

@@ -1,35 +1,46 @@
-# TemizWeb Ultimate
+# TemizWeb DNS
 
-Türkçe odaklı, açık kaynak, mahremiyet dostu uBlock Origin paketi.
+TemizWeb'in ikinci katmanı: SafeSearch zorlamadan yetişkin alan adlarını ve isteğe bağlı aşma araçlarını DNS seviyesinde engelleyen açık kaynak listeler.
 
-## Tek bağlantı
+## Üretilen profiller
 
-```text
-https://raw.githubusercontent.com/erdemyasar-web/TemizWeb/main/filters/dist/temizweb-main.txt
+### Balanced — varsayılan
+
+Yalnızca yetişkin alan adları. Kaynaklar:
+
+- HaGeZi NSFW
+- The Block List Project Porn
+- TemizWeb Türkçe eki
+
+### Adult + VPN
+
+Balanced içeriğine ek olarak büyük VPN sağlayıcılarının, web proxy'lerin ve yaygın aşma araçlarının resmi/indirme alanları.
+
+### Strict
+
+Adult + VPN profiline ek olarak yaygın açık DNS-over-HTTPS / DNS-over-TLS hizmet alanları.
+
+## SafeSearch
+
+Hiçbir profil Google SafeSearch veya YouTube Restricted Mode DNS yönlendirmesi içermez.
+
+## Çıktı biçimleri
+
+Her profil için:
+
+- `*-domains.txt`: yalnızca alan adları
+- `*-hosts.txt`: hosts/Pi-hole biçimi
+- `*-adguard.txt`: AdGuard/uBlock biçimi
+
+## Derleme
+
+```bash
+python scripts/build_dns.py
+python scripts/check_dns.py
 ```
 
-Bu tek çıktı iki katmanı birleştirir:
+Workflow listeleri günlük yeniler.
 
-1. TemizWeb'in YouTube/Reddit/Instagram arayüz ve Türkçe içerik kuralları.
-2. HaGeZi NSFW yetişkin alan adı listesi.
+## Sınırlar
 
-Kullanıcıların HaGeZi'yi ayrıca eklemesi gerekmez. GitHub Actions listeyi her gün günceller.
-
-## İlk kurulum
-
-1. Bu arşivin **içindekileri** `erdemyasar-web/TemizWeb` adlı herkese açık GitHub deposunun köküne yükleyin.
-2. Depoda **Actions** sekmesini açın ve `Build TemizWeb Ultimate` iş akışını çalıştırın.
-3. **Settings → Pages** bölümünde `main` dalı ve `/docs` klasörünü seçin.
-4. Kurulum sayfası: `https://erdemyasar-web.github.io/TemizWeb/`
-
-## Tasarım ilkeleri
-
-- SafeSearch veya YouTube Kısıtlı Mod zorlanmaz.
-- Reddit/Instagram/YouTube tümden engellenmez.
-- Banka, e-Devlet, sağlık, haber ve genel arama sitelerinde evrensel kelime gizleme yapılmaz.
-- Bikini/mayo gibi bağlama bağlı görseller uBlock kelimeleriyle körlemesine engellenmez; görsel sınıflandırma aşamasına bırakılır.
-- Tarama verisi toplanmaz veya bir sunucuya gönderilmez.
-
-## Kaynak ve lisans
-
-TemizWeb ve birleşik çıktı GPL-3.0-or-later lisanslıdır. Yetişkin alan adı katmanı HaGeZi DNS Blocklists projesinin GPL-3.0 lisanslı NSFW listesinden otomatik alınır. Kaynak bilgisi üretilen filtre içinde korunur.
+DNS yalnızca alan adını görür. Reddit, haber sitesi veya spor sitesindeki tek bir görseli sınıflandıramaz. Önceden yüklenmiş VPN uygulamalarını veya doğrudan IP ile çalışan tünelleri kesin olarak durduramaz.

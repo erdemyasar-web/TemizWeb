@@ -1,0 +1,15 @@
+# TemizWeb allowlist
+# Add a domain here only after confirming a false positive.
+google.com
+google.com.tr
+youtube.com
+youtu.be
+googleapis.com
+gstatic.com
+microsoft.com
+apple.com
+icloud.com
+github.com
+githubusercontent.com
+turkiye.gov.tr
+edevlet.gov.tr

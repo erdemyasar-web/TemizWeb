@@ -1,0 +1,42 @@
+# TemizWeb VPN / proxy access domains
+# Conservative list: official provider or circumvention-project domains only.
+# Blocking websites makes installation harder, but cannot stop an already installed VPN.
+nordvpn.com
+expressvpn.com
+surfshark.com
+protonvpn.com
+proton.me
+windscribe.com
+tunnelbear.com
+privateinternetaccess.com
+cyberghostvpn.com
+mullvad.net
+hide.me
+hotspotshield.com
+vpnbook.com
+urban-vpn.com
+psiphon.ca
+psiphon3.com
+torproject.org
+tails.net
+getoutline.org
+outlinekeys.com
+shadowsocks.org
+v2fly.org
+v2ray.com
+xtls.github.io
+hiddify.com
+hiddify-next.com
+amnezia.org
+riseup.net
+lantern.io
+ultrasurf.us
+freegate.org
+proxysite.com
+croxyproxy.com
+hidemyass.com
+kproxy.com
+4everproxy.com
+whoer.net
+vpnmentor.com
+top10vpn.com
