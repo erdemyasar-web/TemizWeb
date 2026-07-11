@@ -4,7 +4,7 @@
 ! License: GPL-3.0-or-later
 ! Version: 1.0.0
 ! Expires: 12 hours
-! Last modified: 2026-07-11 15:23 UTC
+! Last modified: 2026-07-11 16:16 UTC
 !
 ! Gizlilik: cihaz üzerinde çalışır; telemetri veya harici içerik analizi yoktur.
 ! SafeSearch ve YouTube Kısıtlı Mod zorlanmaz.
@@ -72,10 +72,136 @@ instagram.com##div[role="presentation"]:has(a[href*="/reel/"])
 instagram.com##div[role="main"] section:has-text(/^(Suggested for you|Önerilenler|Senin için önerilenler)$/i)
 
 ! -----------------------------------------------------------------------------
+! TemizWeb — Reddit ve desteklenen forum platformları
+! Siteyi engellemez; yalnızca yüksek güvenli NSFW/yetişkin kartlarını gizler.
+! -----------------------------------------------------------------------------
+
+! Reddit — yeni ve eski arayüz
+
+reddit.com##shreddit-post:has-text(/\b(NSFW|Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX)\b/i)
+reddit.com##article:has-text(/\b(NSFW|Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX)\b/i)
+reddit.com##div[data-testid="post-container"]:has-text(/\b(NSFW|Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX)\b/i)
+
+reddit.com##shreddit-post:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak(?:lık)?|erotik\s+(?:video|fotoğraf|görüntü)|seks\s+(?:videosu|izle)|ifşa\s+(?:video|fotoğraf)|yetişkin\s+video)\b/i)
+reddit.com##article:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak(?:lık)?|erotik\s+(?:video|fotoğraf|görüntü)|seks\s+(?:videosu|izle)|ifşa\s+(?:video|fotoğraf)|yetişkin\s+video)\b/i)
+
+! Reddit yetişkin topluluk bağlantıları
+reddit.com##a[href*="/r/nsfw" i]
+reddit.com##a[href*="/r/gonewild" i]
+reddit.com##a[href*="/r/hentai" i]
+reddit.com##a[href*="/r/rule34" i]
+reddit.com##a[href*="/r/porn" i]
+
+! Quora — yalnızca soru/cevap kartı düzeyinde
+quora.com##div[role="listitem"]:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+quora.com##div[role="listitem"]:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)
+
+! Tumblr — yetişkin etiketleri ve gönderi kartları
+tumblr.com##article:has-text(/\b(NSFW|Pornhub|OnlyFans|Fansly|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+tumblr.com##a[href*="/tagged/nsfw" i]
+tumblr.com##a[href*="/tagged/porn" i]
+tumblr.com##a[href*="/tagged/hentai" i]
+tumblr.com##a[href*="/tagged/rule-34" i]
+
+! X/Twitter web — yalnızca açık yetişkin hizmet/etiket kartları
+x.com##article:has-text(/\b(NSFW|Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX)\b/i)
+twitter.com##article:has-text(/\b(NSFW|Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX)\b/i)
+
+! Ekşi Sözlük — yalnızca yüksek güvenli yetişkin başlıkları
+eksisozluk.com##li:has(a[href*="/porno" i])
+eksisozluk.com##li:has(a[href*="/pornografi" i])
+eksisozluk.com##li:has(a[href*="/hentai" i])
+eksisozluk.com##li:has(a[href*="/onlyfans" i])
+eksisozluk.com##article:has-text(/\b(porno(?:grafi|grafik|su)?|hentai|onlyfans|seks\s+videosu|çıplak\s+fotoğraf)\b/i)
+
+! Genel Discourse forumları — yalnızca konu listesi satırında yüksek güvenli terimler
+##tr.topic-list-item:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+##tr.topic-list-item:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)
+
+! Genel XenForo forumları — yalnızca konu satırı
+##div.structItem--thread:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+##div.structItem--thread:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)
+
+! -----------------------------------------------------------------------------
+! TemizWeb — Web arama motorları
+! SafeSearch zorlamaz. Yüksek güvenli yetişkin sorgularında sonuç alanını gizler;
+! normal sağlık, haber, eğitim ve hukuk sorgularını mümkün olduğunca korur.
+! -----------------------------------------------------------------------------
+
+! ---- Google / Google Türkiye ----
+! Açık yetişkin sorgusunda sonuçlar ve ilgili aramalar
+google.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:video|content)|hardcore)/i) #search
+google.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:video|content)|hardcore)/i) #bres
+google.com.tr##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:video|content)|hardcore)/i) #search
+google.com.tr##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:video|content)|hardcore)/i) #bres
+
+! Normal bir aramada beliren yüksek güvenli yetişkin sonuç kartları
+google.com,google.com.tr##div.MjjYud:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+google.com,google.com.tr##div.MjjYud:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)
+
+! ---- Bing ----
+bing.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:video|content)|hardcore)/i) #b_results
+bing.com##li.b_algo:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+bing.com##li.b_algo:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)
+
+! ---- DuckDuckGo ----
+duckduckgo.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:video|content)|hardcore)/i) #links
+duckduckgo.com##article[data-testid="result"]:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+duckduckgo.com##article[data-testid="result"]:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)
+
+! ---- Brave Search ----
+search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:video|content)|hardcore)/i) #results
+search.brave.com##div.snippet:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+search.brave.com##div.snippet:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)
+
+! ---- Yandex / Yandex Türkiye ----
+yandex.com,yandex.com.tr##body:matches-path(/[?&]text=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:video|content)|hardcore)/i) #search-result
+yandex.com,yandex.com.tr##li.serp-item:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+yandex.com,yandex.com.tr##li.serp-item:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)
+
+! ---- Yahoo ----
+search.yahoo.com##body:matches-path(/[?&]p=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:video|content)|hardcore)/i) #web
+search.yahoo.com##div.algo:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+search.yahoo.com##div.algo:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)
+
+! -----------------------------------------------------------------------------
 ! Dar kapsamlı öneri temizliği — genel sayfa/metin engellemesi yapılmaz
 ! -----------------------------------------------------------------------------
 ! Google arama sonuçları veya SafeSearch değiştirilmez.
 ! Evrensel bikini/mayo/dekolte kuralları kasıtlı olarak yoktur; görsel model aşamasına aittir.
+
+! -----------------------------------------------------------------------------
+! TemizWeb — Görsel arama
+! uBlock görselin piksel içeriğini anlayamaz. Bu dosya:
+! 1) açık yetişkin sorgularında görsel sonuç alanını gizler,
+! 2) bilinen yetişkin alan adlarından gelen kartları,
+! 3) yüksek güvenli başlık/açıklama taşıyan kartları gizler.
+! -----------------------------------------------------------------------------
+
+! ---- Google Görseller ----
+google.com,google.com.tr##body:matches-path(/\/search.*[?&]tbm=isch.*[?&]q=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:image|video)|hardcore)/i) #islrg
+google.com,google.com.tr##body:matches-path(/\/search.*[?&]tbm=isch.*[?&]q=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:image|video)|hardcore)/i) div[data-cid]
+
+google.com,google.com.tr##div[data-cid]:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+google.com,google.com.tr##div[data-cid]:has-text(/\b(porno(?:grafi|grafik|su)?|çıplak\s+(?:fotoğraf|video)|erotik\s+(?:video|fotoğraf)|seks\s+videosu|ifşa\s+(?:video|fotoğraf))\b/i)
+
+! ---- Bing Images ----
+bing.com##body:matches-path(/\/images\/search.*[?&]q=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:image|video)|hardcore)/i) #mmComponent_images_2
+bing.com##div.mimg:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+bing.com##a.iusc[href*="porn" i]
+bing.com##a.iusc[href*="hentai" i]
+bing.com##a.iusc[href*="onlyfans" i]
+
+! ---- DuckDuckGo Images ----
+duckduckgo.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:image|video)|hardcore).*&iax=images/i) #zci-images
+duckduckgo.com##div.tile--img:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+
+! ---- Yandex Images ----
+yandex.com,yandex.com.tr##body:matches-path(/\/images\/search.*[?&]text=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:image|video)|hardcore)/i) .serp-list
+yandex.com,yandex.com.tr##div.serp-item:has-text(/\b(Pornhub|OnlyFans|Fansly|GoneWild|Rule\s*34|Hentai|XXX|porn(?:ography)?|nudes?)\b/i)
+
+! ---- Brave Images ----
+search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornography|xxx|hentai|rule(?:%20|\+|\s)*34|onlyfans(?:%20|\+|\s)*(?:leak|ifşa)|nude(?:s)?|çıplak(?:%20|\+|\s)*(?:foto|fotoğraf|video)|seks(?:%20|\+|\s)*(?:video|izle)|erotik(?:%20|\+|\s)*(?:video|foto|fotoğraf)|adult(?:%20|\+|\s)*(?:image|video)|hardcore).*source=images/i) #results
 
 ! -----------------------------------------------------------------------------
 ! TemizWeb Türkçe yetişkin alan adı eki
@@ -84,6 +210,40 @@ instagram.com##div[role="main"] section:has-text(/^(Suggested for you|Önerilenl
 ! -----------------------------------------------------------------------------
 ! Örnek biçim (etkin değildir):
 ! ||ornek-yetiskin-alani.invalid^
+
+! -----------------------------------------------------------------------------
+! TemizWeb — Türkçe ve global anahtar kelime politikası
+! Bu dosya tek başına evrensel sayfa gizleme yapmaz.
+! Diğer dosyalardaki kart ve sorgu kuralları için ortak politika belgesidir.
+! -----------------------------------------------------------------------------
+
+! Yüksek güvenli Türkçe terimler:
+! porno, pornografi, pornografik, pornosu
+! seks videosu, seks izle
+! erotik video, erotik fotoğraf, erotik görüntü
+! çıplak fotoğraf, çıplak video
+! ifşa video, ifşa fotoğraf
+! yetişkin video, yetişkin içerik izle
+! hentai, rule 34, onlyfans ifşa
+
+! Yüksek güvenli global terimler:
+! porn, pornography, xxx, hentai, rule 34
+! Pornhub, OnlyFans leak, Fansly leak, GoneWild
+! nude photos, nude videos, adult video, hardcore
+
+! Tek başına evrensel biçimde engellenmeyen bağlamsal kelimeler:
+! cinsellik, seks, erotizm, çıplaklık, anatomi, meme, göğüs,
+! bikini, mayo, dekolte, model, masaj, üreme, doğum.
+! Bunlar sağlık, haber, spor, sanat, eğitim veya hukuk bağlamında kullanılabilir.
+
+! Uygulama ilkesi:
+! - Kesin terimler arama sorgularında ve belirli içerik kartlarında kullanılabilir.
+! - Bağlamsal terimler yalnızca başka yüksek güvenli kelimelerle birleştiğinde hedeflenir.
+! - Tüm web sayfasını hedefleyen evrensel :has-text kuralları eklenmez.
+! - Büyük yetişkin alan adı listesi workflow tarafından HaGeZi NSFW kaynağından
+!   filters/dist/temizweb-main.txt içine ayrıca birleştirilir.
+! - Bikini, mayo, dekolte ve etiketsiz görseller sonraki cihaz içi görsel model
+!   aşamasında ele alınmalıdır.
 
 ! -----------------------------------------------------------------------------
 ! Upstream: HaGeZi NSFW DNS Blocklist (GPL-3.0)
