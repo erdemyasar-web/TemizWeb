@@ -4,7 +4,7 @@
 ! License: GPL-3.0-or-later
 ! Version: 1.0.0
 ! Expires: 12 hours
-! Last modified: 2026-07-12 08:38 UTC
+! Last modified: 2026-07-12 09:33 UTC
 !
 ! Gizlilik: cihaz üzerinde çalışır; telemetri veya harici içerik analizi yoktur.
 ! SafeSearch ve YouTube Kısıtlı Mod zorlanmaz.
