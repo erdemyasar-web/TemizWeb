@@ -4,7 +4,7 @@
 ! License: GPL-3.0-or-later
 ! Version: 1.0.0
 ! Expires: 12 hours
-! Last modified: 2026-11-02 11:27 UTC
+! Last modified: 2026-11-03 11:04 UTC
 !
 ! Gizlilik: cihaz üzerinde çalışır; telemetri veya harici içerik analizi yoktur.
 ! SafeSearch ve YouTube Kısıtlı Mod zorlanmaz.
@@ -249,7 +249,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ! Upstream: HaGeZi NSFW DNS Blocklist
 ! Source: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt
 ! License: GPL-3.0
-! Imported rules: 92131
+! Imported rules: 92021
 ! -----------------------------------------------------------------------------
 ||xhamstersexvideo.com.123freedownload.com^
 ||so.252035.xyz^
@@ -674,6 +674,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxphotoidqcj.blogspot.com^
 ||xxxpicskblvi.blogspot.com^
 ||xxxvideouqbhd.blogspot.com^
+||yessensitiveusername.blogspot.com^
 ||youngnudeteentumblr.blogspot.com^
 ||zxrt.blogspot.com^
 ||booru.borvar.art^
@@ -902,7 +903,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||dwarfdating.co.uk^
 ||edensexshop.co.il^
 ||eharmony.co.uk^
-||eliteescort.co.in^
 ||elitemanchesterescorts.co.uk^
 ||englishroseescortagency.co.uk^
 ||entrancement.co.uk^
@@ -1164,7 +1164,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexnewcastle.co.uk^
 ||sexor.co.il^
 ||sextop1.co.uk^
-||sextoyindia.co.in^
 ||sextoysaver.co.uk^
 ||sextrader.co.za^
 ||sexviet.co.uk^
@@ -1221,7 +1220,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||vandr.co.jp^
 ||vintagemagazinesblog.co.uk^
 ||vip-london-escort.co.uk^
-||viralhub.co.in^
 ||vixxxen.co.za^
 ||watchmygirlfriend.co.uk^
 ||webcamsex.co.uk^
@@ -1340,7 +1338,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||centraldegruposwhats.com.br^
 ||channeledu.com.np^
 ||chinesepornvideos.com.es^
-||chineseteenporn.com.es^
 ||christinemcqueen.com.au^
 ||citybrothel.com.au^
 ||classluxo.com.br^
@@ -1354,7 +1351,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||contosfetiche.com.br^
 ||conversadehomem.com.br^
 ||cryptoporn.com.es^
-||cutelembrancas.com.br^
 ||daftsex.com.es^
 ||darwinescorts.com.au^
 ||datasexo.com.br^
@@ -1579,7 +1575,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||riorelax.com.br^
 ||romanceperfeito.com.br^
 ||rosa-pastel.com.mx^
-||royalparkhotel.com.br^
 ||rule34.com.es^
 ||saltsbr.com.br^
 ||sangelink.com.de^
@@ -1609,11 +1604,9 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexysecretsshop.com.au^
 ||sexyvideo.com.co^
 ||shuicao.com.cn^
-||shxingchi.com.cn^
 ||simpleescort.com.ec^
 ||sinustone.com.cn^
 ||skokka.com.au^
-||smart3.com.br^
 ||smaxim.com.ua^
 ||socaseiras.com.br^
 ||somazone.com.au^
@@ -1720,7 +1713,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||zongye123.com.cn^
 ||zqlh.com.cn^
 ||zzin.com.cn^
-||www-sambaporno-com.comlocal.org^
 ||sex.cosmopolitan.com^
 ||forum.crazypc.ro^
 ||dickcode.creativerobot.co^
@@ -2066,12 +2058,14 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||noasfw.itch.io^
 ||nomeme.itch.io^
 ||nonhumans.itch.io^
+||norkoala.itch.io^
 ||noxdev.itch.io^
 ||nranchs.itch.io^
 ||nsfwclubgames.itch.io^
 ||nutaly.itch.io^
 ||nyopan.itch.io^
 ||nyxgaming.itch.io^
+||omarcompany.itch.io^
 ||oneirolith.itch.io^
 ||onioncuttingninja.itch.io^
 ||onlygoodgames.itch.io^
@@ -2699,6 +2693,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||indoviralss.soohelp.com^
 ||porno.spartanas.com^
 ||liza-escort.spb.ru^
+||gayleafoods.staffbase.com^
 ||sexfilm.startpagina.nl^
 ||javdb.steg.gg^
 ||video.stoporn.net^
@@ -2957,6 +2952,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||102501.com^
 ||102porno.club^
 ||102porno.net^
+||104xxx.com^
 ||105matures.com^
 ||1069boys.net^
 ||1069tube.com^
@@ -3255,6 +3251,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||18porn.work^
 ||18porn.wtf^
 ||18porn2.biz^
+||18pornclipchinese.click^
 ||18pornclipschinese.click^
 ||18porncomic.com^
 ||18pornhub.xyz^
@@ -3283,6 +3280,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||18sex.net^
 ||18sex.work^
 ||18sex-tube.com^
+||18sexchinese.click^
 ||18sexlive.com^
 ||18sextury.com^
 ||18sexual.fun^
@@ -3746,6 +3744,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||31vktiadult.click^
 ||31vktiadult.sbs^
 ||31vktiadult.shop^
+||31vktiadultalt.cfd^
 ||31vktiadultalt.cyou^
 ||31vktiadultalt.shop^
 ||31vktiadultalty.shop^
@@ -3755,6 +3754,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||31vktiadultxz.cyou^
 ||31vktiadultxz.sbs^
 ||31vktiadultxz.shop^
+||31vktialtyaziliporno.cfd^
 ||31vktipornoalt.cyou^
 ||31vktipornoalt.shop^
 ||31vktipornoalty.cyou^
@@ -3988,13 +3988,13 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||3rab-naar.com^
 ||3rabnaar.com^
 ||3rabporn.cam^
-||3rabporn.com^
 ||3rabxn.com^
 ||3rbyatonline.com^
 ||3rddegreefilms.com^
 ||3realcallgirl.com^
 ||3rk8e.cn^
 ||3sads.com^
+||3sesese.live^
 ||3sex.com^
 ||3sexsuals.com^
 ||3sexsuals.net^
@@ -4041,6 +4041,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||3xszexchat.hu^
 ||3xteensex.com^
 ||3xxhamsters.com^
+||3xxx.blog^
 ||3xxx.mobi^
 ||3xxx.pro^
 ||3xxx-videos.com^
@@ -4631,7 +4632,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||8-muses.xyz^
 ||800trannyphonesex.com^
 ||800wil.top^
-||800xxx.com^
 ||805epu.top^
 ||8090sex.icu^
 ||8090wy.com^
@@ -4826,9 +4826,12 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||91hubw.com^
 ||91icg.com^
 ||91jav1.com^
+||91jav19.cc^
 ||91jifen.com^
 ||91jpzyw.com^
 ||91jxporn.com^
+||91kuaibo.live^
+||91mao.live^
 ||91mei.xyz^
 ||91mgdj.com^
 ||91mgdj.net^
@@ -4898,6 +4901,8 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||91pornhubsite.com^
 ||91pornmax.com^
 ||91pornnew.com^
+||91pornnew.fun^
+||91pornnew.xyz^
 ||91pornplus.com^
 ||91pornplus.org^
 ||91pornpp.com^
@@ -4917,6 +4922,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||91rb.net^
 ||91rb01.com^
 ||91rb99.com^
+||91saob.live^
 ||91selfie.com^
 ||91seseporna.com^
 ||91sess.com^
@@ -5150,7 +5156,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||aa371.top^
 ||aa372.top^
 ||aa3xx4.com^
-||aa421.top^
 ||aa77yyy.com^
 ||aaa-porn.com^
 ||aaa-telefonsex.de^
@@ -5261,16 +5266,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||abgaytube.click^
 ||abge.pro^
 ||abgliar.shop^
-||abgviral.asia^
-||abgviral.autos^
-||abgviral.cam^
-||abgviral.cfd^
-||abgviral.cyou^
-||abgviral.fit^
-||abgviral.mom^
-||abgviral.org^
-||abgviral.rent^
-||abgviral.tattoo^
 ||abgviralvideo.forum^
 ||abhiyantrik.com^
 ||abigaiilmorris.com^
@@ -5818,6 +5813,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||adultiptv.net^
 ||adultiptvusa.com^
 ||adultism.com^
+||adultiszm.com^
 ||adultizm.com^
 ||adultjoy.net^
 ||adultjunky.com^
@@ -5849,6 +5845,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||adultmandy.com^
 ||adultmaniaclub.com^
 ||adultmassagehungary.top^
+||adultmassagepoland.site^
 ||adultmassagevietnam.top^
 ||adultmatrix.com^
 ||adultmedia.ro^
@@ -5889,7 +5886,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||adultpornclipz.com^
 ||adultpornhub.com^
 ||adultpornlist.com^
-||adultpornoerotica.com^
 ||adultpornographyvv.com^
 ||adultpornsexxx.com^
 ||adultpornsub.com^
@@ -6217,6 +6213,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ahzlhg.com^
 ||ahzylm.com^
 ||ai-deep-nude.com^
+||ai-drama-porn.org^
 ||ai-dreamgirls.com^
 ||ai-generated-porn.com^
 ||ai-hentai.net^
@@ -6332,7 +6329,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||aincest.com^
 ||aindianporn.com^
 ||ainews.xxx^
-||ainsfwbots.com^
 ||ainsfwtools.com^
 ||ainude.best^
 ||ainude.photos^
@@ -6553,6 +6549,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||alanyaescortilan.com^
 ||alanyaescortlariara.info^
 ||alanyaescorto.com^
+||alanyaescortum.site^
 ||alanyafans.com^
 ||alanyaotogar.com^
 ||alanylons.com^
@@ -6662,7 +6659,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||allaboutladyboy.com^
 ||alladultoffers.com^
 ||alladultpass.net^
-||allaisex.com^
 ||allamateurxxx.com^
 ||allamericanguys.com^
 ||allanal.com^
@@ -6702,7 +6698,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||allcountyservicesnj.com^
 ||allcumshotpics.com^
 ||allcuteteens.com^
-||alldesisex.com^
 ||alldirtyfans.com^
 ||allebonygals.com^
 ||allebonytube.com^
@@ -6717,7 +6712,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||allfilipinacams.com^
 ||allfinegirls.com^
 ||allfinegirls.ru^
-||allfucktube.com^
 ||allgaybox.click^
 ||allgayhall.click^
 ||allgaypornmovies.click^
@@ -6980,10 +6974,10 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||alrincon.tv^
 ||alsancakescort.com^
 ||alsangels.com^
-||alsolimangroup.com^
 ||alsoporn.com^
 ||alsscan.com^
 ||alt.com^
+||alt-access.com^
 ||alt-angels.com^
 ||alt-sex.net^
 ||altasmoking.com^
@@ -7012,15 +7006,10 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||altyaziliatesliporno.shop^
 ||altyazilierotikseks.cfd^
 ||altyazilierotikseks.shop^
-||altyazilifilm.cfd^
 ||altyazilifilm.cyou^
-||altyazilihardcore.cfd^
-||altyazilihardcorehd.cfd^
-||altyazilihardtube.cfd^
 ||altyazilihd.cyou^
 ||altyazilihubxt3.click^
 ||altyazilikoleksiyon.cyou^
-||altyaziliporno.cfd^
 ||altyaziliporno.click^
 ||altyaziliporno.cyou^
 ||altyaziliporno.sbs^
@@ -7029,36 +7018,24 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||altyazilipornoarsiv.shop^
 ||altyazilipornoaxz.shop^
 ||altyazilipornofilmi.shop^
-||altyazilipornohd.cfd^
 ||altyazilipornoizle.shop^
 ||altyazilipornokoleksiyon.shop^
 ||altyazilipornokutup.shop^
 ||altyazilipornomun.shop^
 ||altyazilipornosahne.shop^
 ||altyazilipornotr.online^
-||altyazilipornotube.cfd^
-||altyaziliseks.cfd^
 ||altyaziliseks.cyou^
 ||altyaziliseksfilmi.shop^
-||altyazilisekshd.cfd^
 ||altyazilisekssahne.shop^
-||altyazilisekstube.cfd^
 ||altyazilisertporno.cfd^
 ||altyazilisertporno.shop^
 ||altyazilisertseks.shop^
-||altyazilivideo.cfd^
-||altyazilivideohd.cfd^
-||altyazilixxx.cfd^
 ||altyazilixxx.click^
 ||altyazilixxx.cyou^
 ||altyazilixxx.shop^
-||altyazilixxxhd.cfd^
 ||altyazilixxxpornoizle.online^
-||altyazilixxxtube.cfd^
 ||altyaziliyetiskinfilm.shop^
 ||altyzhub27.site^
-||altyzhubx5.cfd^
-||altyzhubx5.shop^
 ||alufem.com^
 ||alurajensonxxx.com^
 ||always-freeporn.com^
@@ -7237,6 +7214,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||amateuridiotprofessionaldad.com^
 ||amateurincest.org^
 ||amateurindiansex.com^
+||amateuritalianfeet.com^
 ||amateurity.com^
 ||amateurix.com^
 ||amateurkit.com^
@@ -7292,6 +7270,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||amateurpornpictures.com^
 ||amateurpornreal.com^
 ||amateurpornvault.com^
+||amateurpornwife.com^
 ||amateurpornwives.com^
 ||amateurptv.com^
 ||amateurpublicupskirt.com^
@@ -7420,7 +7399,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ambercutie.com^
 ||amberspanks.com^
 ||ambitbilling.com^
-||ambradolce.com^
 ||ambushmassage.com^
 ||amcoraka.pro^
 ||amelialawren.com^
@@ -7434,6 +7412,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||americagenius.com^
 ||american-wet-pussy.com^
 ||americancumdolls.com^
+||americandaydreamspage.com^
 ||americanflirting.com^
 ||americanlivesexcam.com^
 ||americanmeangirls.com^
@@ -7693,7 +7672,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||analsex.land^
 ||analsex.tube^
 ||analsex-bilder.com^
-||analsexerotica.com^
 ||analsexpage.com^
 ||analsexporno.net^
 ||analsexqueens.com^
@@ -7955,6 +7933,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||animesexcall.com^
 ||animesexdepo.com^
 ||animesexdoll.net^
+||animesexe.com^
 ||animesexgaming.com^
 ||animesexvid.com^
 ||animeshentai.biz^
@@ -8013,6 +7992,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ankararusescort.com^
 ||ankararusescortg.xyz^
 ||ankararusescortlariz.net^
+||ankarasexsohbethatti.online^
 ||ankarasincanescort.cfd^
 ||ankulo.com^
 ||anlijidian.com^
@@ -8242,7 +8222,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||aoxx69.net^
 ||aoyton.com^
 ||ap1718.com^
-||ap576.top^
 ||apacams.com^
 ||aparkar.com^
 ||apclips.com^
@@ -8315,7 +8294,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||aquahere.com^
 ||aquarainro.com^
 ||aqzjj.com^
-||ar902.top^
 ||arab-porn.cv^
 ||arab-porn.net^
 ||arab-sex.online^
@@ -8401,6 +8379,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||arabsex4.skin^
 ||arabsex4a.lol^
 ||arabsex4b.lol^
+||arabsex4c.lol^
 ||arabsexeporn.net^
 ||arabsexflesh.com^
 ||arabsexi.info^
@@ -8577,6 +8556,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||artisanskerala.com^
 ||artistmindmap.com^
 ||artistointeriors.com^
+||artmartinez.net^
 ||artnudegalleries.com^
 ||artoferotica.info^
 ||artofscat.com^
@@ -9084,7 +9064,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||asianpussyhub.com^
 ||asianpussymovs.com^
 ||asianpussyp.com^
-||asianpussypic.me^
 ||asianpussypics.com^
 ||asianpussyz.com^
 ||asianrape.net^
@@ -9285,6 +9264,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||asiaontop.com^
 ||asiaporn.top^
 ||asiaporn.vip^
+||asiapornmax.com^
 ||asiapornphoto.com^
 ||asiaporntube.click^
 ||asiaporntube.pro^
@@ -9475,6 +9455,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||asx044.com^
 ||asyoujizz.com^
 ||at3a.com^
+||atakoyescort3.lol^
 ||atakoyescortgo.xyz^
 ||atakoyeskort.net^
 ||atakumescortgo.xyz^
@@ -9503,6 +9484,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||atesliporno.cyou^
 ||atesliporno.shop^
 ||ateslipornoaci.cfd^
+||ateslisexsohbet.online^
 ||atesliturkcefilm.shop^
 ||atesliturkceporno.shop^
 ||atesliturkceseks.shop^
@@ -9558,7 +9540,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||audaxium.com^
 ||audierotica.com^
 ||audio.love^
-||audiobabe.com^
 ||audiodesires.com^
 ||audiosex18.ru^
 ||aufporno.net^
@@ -9634,6 +9615,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||auntysexvideo.net^
 ||auntysexvideo.quest^
 ||auntysexvideo.shop^
+||auntysexvideo.work^
 ||aurads.pl^
 ||auriala.com^
 ||aurogra.live^
@@ -9686,7 +9668,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||av19.me^
 ||av28.com^
 ||av3698.cc^
-||av4kvideos.com^
 ||av4usporn.win^
 ||av6636.cc^
 ||av666v.com^
@@ -9699,7 +9680,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||av6k.tv^
 ||av6k.vip^
 ||av911.tv^
-||av928.top^
 ||avaescorts.com^
 ||avafuck.com^
 ||aval.lol^
@@ -9718,6 +9698,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||avcar.vip^
 ||avcilarescort.lol^
 ||avcilarescort.org^
+||avcilarescortarax.com^
 ||avcilarescortgo.xyz^
 ||avcilarescorthot.site^
 ||avcilarescortlar.org^
@@ -9736,7 +9717,9 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||avelip.com^
 ||aveliporn.com^
 ||aventertainments.com^
+||avenue-du-sexe.com^
 ||avenueblue.net^
+||avenuedusexe.com^
 ||average.garden^
 ||averagejoeporn.com^
 ||averagenudes.com^
@@ -9775,7 +9758,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||avhwa.com^
 ||aviationtrans.com^
 ||avideos.xxx^
-||avideoshd.com^
 ||avidolpics.com^
 ||avidolz.com^
 ||avidou.com^
@@ -9842,7 +9824,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||avsimi.lol^
 ||avsimihd.lol^
 ||avslut.com^
-||avsoushuba.com^
 ||avsox.click^
 ||avspot47.com^
 ||avstockings.com^
@@ -9882,7 +9863,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||aw-anal.com^
 ||aw-fuck.com^
 ||aw-strip.com^
-||aw862.top^
 ||awakeacc.com^
 ||awanal.com^
 ||awboobs.com^
@@ -10024,6 +10004,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||babecentrum.com^
 ||babechatai.com^
 ||babedrop.net^
+||babefanatic.com^
 ||babefilter.net^
 ||babegal.com^
 ||babegalleries.com^
@@ -10042,7 +10023,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||babemansion.com^
 ||babemasturbation.com^
 ||babenice.com^
-||babenki.info^
 ||babepedia.com^
 ||babeporn.net^
 ||babeporn.org^
@@ -10104,6 +10084,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||babesrater.com^
 ||babesreal.com^
 ||babestar.club^
+||babestar.ru^
 ||babestare.com^
 ||babestare.net^
 ||babestation.com^
@@ -10246,6 +10227,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bafuae.com^
 ||bag-closure.com^
 ||bagacams.com^
+||bagcilarescort.baby^
 ||bagcilarescortgo.xyz^
 ||bagcilarescortkiz7.xyz^
 ||bagcilarescortnight.site^
@@ -10344,6 +10326,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ballbustingtube.com^
 ||balldraining.site^
 ||balletflatsfetish.com^
+||balloonbeauties.com^
 ||ballporn.net^
 ||ballpornvideo.com^
 ||ballsandboobs.com^
@@ -10426,6 +10409,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||banglachotix.com^
 ||banglachotixxx.me^
 ||bangladeshigirlxxx.com^
+||bangladeshiporn.blog^
 ||bangladeshipornvideo.com^
 ||bangladeshisexvideo.baby^
 ||bangladeshisexvideo.best^
@@ -10609,7 +10593,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||battlecam.com^
 ||batychat.com^
 ||bawdybitoffun.com^
-||bawok.store^
 ||baxiangyuan.com^
 ||baxsk.com^
 ||bayanescortizmir.com^
@@ -10633,7 +10616,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bazingacams.com^
 ||bazoocam.org^
 ||bazoocamlive.com^
-||bb186.top^
 ||bb19xxx.com^
 ||bba019.top^
 ||bbarandgrill.com^
@@ -10884,6 +10866,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bdsm-list.com^
 ||bdsm-list.net^
 ||bdsm-live.cam^
+||bdsm-mania.net^
 ||bdsm-nederland.nl^
 ||bdsm-ou-abus.org^
 ||bdsm-party.top^
@@ -11043,7 +11026,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bdsmpornlove.com^
 ||bdsmporno.org^
 ||bdsmpornotube.com^
-||bdsmpornpoint.com^
 ||bdsmpornscore.com^
 ||bdsmpornsense.com^
 ||bdsmpornsites.com^
@@ -11256,7 +11238,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bebepress.com^
 ||bebesolana.lol^
 ||bebetter.si^
-||becak.store^
 ||beccasfineart.com^
 ||becekku.live^
 ||beckhamcc.com^
@@ -11711,7 +11692,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bestjavporn.live^
 ||bestjavporn.me^
 ||bestjavs.com^
-||bestjavsex.com^
 ||bestjobvacancy.com^
 ||bestkinksites.com^
 ||bestkoreanxxx.click^
@@ -11773,6 +11753,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bestphq.com^
 ||bestpics4you.com^
 ||bestpissingthumbs.com^
+||bestpoker.org^
 ||bestporn.gg^
 ||bestporn.net^
 ||bestporn.pics^
@@ -12005,6 +11986,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||beylikduzuturbanliescort.com^
 ||beylikduzuvipescort.net^
 ||beyogluescort.net^
+||beyogluescort1.lol^
 ||beyogluescortpremium.site^
 ||beyondaiporn.com^
 ||bez-trusov.club^
@@ -12081,7 +12063,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bibian-av.com^
 ||bibijones.com^
 ||bibshe.com^
-||bichesporn.com^
 ||bicollegefucks.com^
 ||bicupid.com^
 ||bicycledriver.com^
@@ -12094,6 +12075,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bier69.com^
 ||bifurolubijexiyotaxoraha.beauty^
 ||big-big-gay.com^
+||big-boobies.com^
 ||big-boobies.net^
 ||big-boobs-gallery.com^
 ||big-booty-dating.com^
@@ -12136,6 +12118,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bigasspornshow.com^
 ||bigassporntrends.com^
 ||bigassscatporn.com^
+||bigassvault.com^
 ||bigassxfuck.com^
 ||bigassz.com^
 ||bigbbwtube.net^
@@ -12218,7 +12201,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bigchinasex.shop^
 ||bigchlen.net^
 ||bigchurch.com^
-||bigclitbabe.com^
 ||bigcnfuck.click^
 ||bigcock.top^
 ||bigcockboys.com^
@@ -12319,7 +12301,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bigpornovideo.net^
 ||bigpornsex.com^
 ||bigpron.bond^
-||bigpron.online^
 ||bigpron.quest^
 ||bigpuffies.com^
 ||bigpvideos.work^
@@ -12403,7 +12384,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bigtitsphotos.xyz^
 ||bigtitspics.net^
 ||bigtitspicture.com^
-||bigtitspix.com^
 ||bigtitsporn.xxx^
 ||bigtitsporn-base.com^
 ||bigtitsporn-cloud.com^
@@ -12641,7 +12621,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bjyhss.com^
 ||bjzwxfsc.com^
 ||bk-carbide.com^
-||bk533.top^
 ||bkporn.com^
 ||bkrotor.com^
 ||bktescort.com^
@@ -12768,6 +12747,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||blacksextube.org^
 ||blacksexvideos.xxx^
 ||blacksexy.info^
+||blackshemale.org^
 ||blackshemalecams.com^
 ||blackshemalechat.com^
 ||blackshemaleclips.com^
@@ -12845,6 +12825,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||blogx.fr^
 ||blondeblowjob.com^
 ||blondeluder.com^
+||blondemilf82.com^
 ||blondeporn.site^
 ||blondepornjpg.com^
 ||blondeporntrends.com^
@@ -12958,12 +12939,10 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bmt899.top^
 ||bmtriders.com^
 ||bmypark.com^
-||bn653.top^
 ||bn71.ru^
 ||bnatxxx.space^
 ||bnbca.com^
 ||bnbpornhub.xyz^
-||bnewk.com^
 ||bnewporn.com^
 ||bnnbb.com^
 ||bnnmrau.com^
@@ -13011,6 +12990,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bodrumescortbayan.vip^
 ||bodrumescortkizlar.club^
 ||bodrumescortportal.com^
+||bodrumescortum.site^
 ||bodrumeskortlar.com^
 ||bodrumevdeneve.net^
 ||bodrumharunyakar.store^
@@ -13053,6 +13033,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bokep.porn^
 ||bokep.pro^
 ||bokep.rest^
+||bokep-indo.com^
 ||bokep-xxx.com^
 ||bokep1.com^
 ||bokep13.com^
@@ -13073,7 +13054,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bokepanak.forum^
 ||bokepb.com^
 ||bokepbarat.cc^
-||bokepbarat.xyz^
 ||bokepbarathd.com^
 ||bokepbdsm.sbs^
 ||bokepbesar.icu^
@@ -13093,6 +13073,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bokepboxx.com^
 ||bokepboz.co^
 ||bokepboz.com^
+||bokepboz.fit^
 ||bokepboz.net^
 ||bokepboz.org^
 ||bokepboz.tv^
@@ -13119,6 +13100,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bokepcrot.gay^
 ||bokepcrot.gives^
 ||bokepcrot.health^
+||bokepcrot.host^
 ||bokepcrot.land^
 ||bokepcrot.pizza^
 ||bokepcrot.singles^
@@ -13255,7 +13237,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bokepindohijab.com^
 ||bokepindohot.net^
 ||bokepindohx.com^
-||bokepindolive.vip^
 ||bokepindon.asia^
 ||bokepindon.beer^
 ||bokepindon.biz^
@@ -13283,7 +13264,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bokepindonesia.work^
 ||bokepindonih.com^
 ||bokepindonih.rest^
-||bokepindoporn.com^
 ||bokepindopro.com^
 ||bokepindopro.me^
 ||bokepindos.cc^
@@ -13440,7 +13420,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bolimian1688.com^
 ||bolly-tube.com^
 ||bolly4u.sarl^
-||bollywood-sex.net^
 ||bollywoodescortsbombay.com^
 ||bollywoodmaal.com^
 ||bollywoodnudetube.com^
@@ -13472,7 +13451,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bombporn.online^
 ||bombporn.quest^
 ||bombporn.video^
-||bombpron.buzz^
 ||bombpron.online^
 ||bombshell.fans^
 ||bomgacams.webcam^
@@ -13485,7 +13463,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bondage.gallery^
 ||bondage.garden^
 ||bondage.group^
-||bondage.wtf^
 ||bondage.xxx^
 ||bondage-club.net^
 ||bondage-dreams.com^
@@ -13563,7 +13540,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bondagewww.com^
 ||bondagezone.com^
 ||bondporn.com^
-||bondtopde.net^
 ||bonecasrelax.com^
 ||bonepage.com^
 ||bonerboyblog.com^
@@ -14010,6 +13986,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||boyculture.com^
 ||boycum.mobi^
 ||boydomination.com^
+||boydosug.ru^
 ||boyfiles.com^
 ||boyforsale.com^
 ||boyfreemovies.com^
@@ -14083,7 +14060,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||boynapped.com^
 ||boyporn.click^
 ||boyporn.gay^
-||boyporn.net^
 ||boyporn.top^
 ||boypornsex.com^
 ||boyporntube.com^
@@ -14113,12 +14089,9 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||boysofjasmin.com^
 ||boysok.com^
 ||boysontube.com^
-||boyspeepee.com^
 ||boyspornpics.com^
 ||boysporntube.net^
 ||boysreview.com^
-||boysspankingboysblog.com^
-||boysteengaysfree.com^
 ||boystubeporn.com^
 ||boysv.com^
 ||boysvideofotofree.com^
@@ -14130,7 +14103,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||boywankblog.com^
 ||boyxxx.click^
 ||boyxxxfun.com^
-||boyxxxtube.org^
+||boyxxxtube.com^
 ||boyz.com^
 ||boyzparty.com^
 ||boyzporn.com^
@@ -14280,7 +14253,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||br841.top^
 ||br842.top^
 ||br845.top^
-||br916.top^
 ||brabantsexdating.nl^
 ||bracefaced.com^
 ||bradborrellixxx.com^
@@ -14472,7 +14444,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||britishgirlz.com^
 ||britishgrandma.com^
 ||britishmaturesex.com^
-||britishporn.site^
 ||britishsexcontacts.com^
 ||britishsexfilms.com^
 ||britishteenporn.info^
@@ -14552,6 +14523,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||brutalbdsmtube.com^
 ||brutalcams.com^
 ||brutalcastings.com^
+||brutaldiablo.com^
 ||brutaldildos.com^
 ||brutalfetish.com^
 ||brutalfisting.com^
@@ -14599,7 +14571,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bsxinyute.com^
 ||bt102.xyz^
 ||bt4.cc^
-||bt572.top^
 ||btbf-vip.com^
 ||btcpornhub.xyz^
 ||btdgsb.com^
@@ -14622,7 +14593,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bubblecams.com^
 ||bubbleclips.com^
 ||bubblegumdungeon.com^
-||bubuk.sbs^
 ||bucaescortgo.xyz^
 ||bucaescortizmir.com^
 ||bucaescortlar.com^
@@ -14813,7 +14783,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bustyamateurs.com^
 ||bustyamateurvideo.com^
 ||bustyandbooty.webcam^
-||bustyangels.net^
 ||bustyanimalsex.com^
 ||bustyanimalxxx.fun^
 ||bustyarchive.com^
@@ -14979,12 +14948,11 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||bvcash.com^
 ||bvporno.shop^
 ||bvx810.top^
-||bw521.top^
 ||bwcporn.top^
 ||bwnvideo.com^
 ||bworldporn.com^
 ||bwpages.com^
-||bwzy.tv^
+||bws-tube.com^
 ||bwzyz.com^
 ||bxavw.com^
 ||bxavz.com^
@@ -15045,7 +15013,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||cababees.org^
 ||caballerox.com^
 ||cabaneduplandelaigle.com^
-||cabinet-avocats-demosthene.com^
 ||cabinet-mts.ru^
 ||cable3439.top^
 ||cableav.tv^
@@ -15082,7 +15049,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||californiam4mdating.com^
 ||californiatv.es^
 ||calillo.com^
-||calipornia.net^
 ||calixintl.com^
 ||call-girls.com^
 ||call-girls.hu^
@@ -15173,7 +15139,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||callgirlvision.com^
 ||callgril.in^
 ||callidus-mc.com^
-||calliecyprus.net^
 ||callingfans.com^
 ||callmetoplay.ch^
 ||callofgirl.com^
@@ -15238,7 +15203,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||cam4000.nl^
 ||cam444.com^
 ||cam4cam.com^
-||cam4cum.live^
 ||cam4free.com^
 ||cam4free.me^
 ||cam4joy.com^
@@ -15389,6 +15353,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||cameravoyeurx.com^
 ||cameronhaley.com^
 ||camevent.com^
+||camevil.com^
 ||camfall.com^
 ||camfan.org^
 ||camfancy.com^
@@ -15416,7 +15381,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||camgay.org^
 ||camgay4.com^
 ||camgayboys.com^
-||camgazette.site^
 ||camgiant.live^
 ||camgirl.cafe^
 ||camgirl.city^
@@ -15466,6 +15430,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||camgirlxxx.com^
 ||camgoddess.net^
 ||camgoddess.tv^
+||camgooner.com^
 ||camgratuites.com^
 ||camgreat.com^
 ||camgrid.live^
@@ -15531,7 +15496,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||cammature.net^
 ||cammbi.com^
 ||cammerchat.com^
-||cammeridian.online^
 ||cammiesonthefloor.com^
 ||cammilf.net^
 ||cammilfs.nl^
@@ -15553,7 +15517,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||camonster.com^
 ||camonster.one^
 ||camonster.sex^
-||camonster.tube^
 ||camonvietnam.com^
 ||camosis.com^
 ||camovore.com^
@@ -15810,12 +15773,12 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||camtits.com^
 ||camtlas.com^
 ||camtocam-chat.ch^
+||camtocam-sex.cam^
 ||camtocamsexchat.com^
 ||camtomycam.com^
 ||camtoo.org^
 ||camtool.cfd^
 ||camtopics.com^
-||camtops.com^
 ||camtown.live^
 ||camtripod.cfd^
 ||camtropicana.com^
@@ -15946,6 +15909,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||camyeah.com^
 ||camz.info^
 ||camz.show^
+||camzap-chat.com^
 ||camzchat.com^
 ||camzchat.net^
 ||camzey.com^
@@ -16040,6 +16004,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||candyshortporn.com^
 ||candyshorts.xxx^
 ||candyshorts-porn.onl^
+||candyshorts-xxx.onl^
 ||candyshortsaixxx.com^
 ||candyshortsexplicit.com^
 ||candyshortsporn.net^
@@ -16086,6 +16051,8 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||canlisex74.site^
 ||canlisex93.site^
 ||canlisex99.site^
+||canlisexsohbethatti.online^
+||canlisextelefonda.online^
 ||canovel.com^
 ||cansever.lol^
 ||canyinlianmeng.com^
@@ -16227,7 +16194,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||carworkshopsingapore.com^
 ||cas-ass.gay^
 ||casadasexibidas.com^
-||casademassagem.net^
 ||casamieres.eu^
 ||casasexo79.com^
 ||cascademag.com^
@@ -16394,7 +16360,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ccxing7.com^
 ||ccxxyydh.com^
 ||ccz545.top^
-||cd330.top^
 ||cdanxian.com^
 ||cdbeq.com^
 ||cdbxcj.com^
@@ -16527,7 +16492,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||celebritymoviearchive.com^
 ||celebritymovieblog.com^
 ||celebritynakeds.com^
-||celebritynippleslips.net^
 ||celebritypornphoto.com^
 ||celebrityrater.com^
 ||celebrityriya.com^
@@ -16554,7 +16518,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||celebsroulette.com^
 ||celebstar.net^
 ||celebsteen.com^
-||celebsuncensored.com^
 ||celebtna.com^
 ||celebuncut.com^
 ||celebwhore.com^
@@ -16735,7 +16698,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||changingroomselfies.com^
 ||changshajiehun.com^
 ||changuitocoin.com^
-||changyuan99.com^
 ||changyuanfood.com^
 ||changyumuye.com^
 ||channelabcsignal.com^
@@ -16801,6 +16763,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||chat4sex.live^
 ||chatabte.com^
 ||chatandcum.com^
+||chatandfuck.com^
 ||chatasy.com^
 ||chataweb.com^
 ||chatbang.net^
@@ -16869,7 +16832,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||chatsex.nl^
 ||chatsex.one^
 ||chatsex.xxx^
-||chatsexcams.com^
 ||chatsexdate.com^
 ||chatsexeia.com^
 ||chatsexocam.com^
@@ -17258,6 +17220,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||chinese-sex.xyz^
 ||chinese-sex-tube.com^
 ||chinese-xxx.com^
+||chinese18pornclips.click^
 ||chinese18pornvideos.click^
 ||chineseadultmovie.org^
 ||chineseav.net^
@@ -17298,7 +17261,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||chinesegirlporn.com^
 ||chinesegirls.link^
 ||chinesegirlspics.com^
-||chinesehdsex.com^
 ||chineselivesex.com^
 ||chinesematureporn.click^
 ||chinesematuresex.shop^
@@ -17324,9 +17286,9 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||chinesepussy.link^
 ||chinesepussy.xyz^
 ||chinesescatporn.com^
+||chinesesex18.click^
 ||chinesesexmovies.click^
 ||chinesesexmovies.shop^
-||chinesesexuhd.com^
 ||chinesesexvideos.click^
 ||chinesesexvideos.shop^
 ||chinesetube.vip^
@@ -17443,7 +17405,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||chubbyelders.com^
 ||chubbygirl-porn.com^
 ||chubbygirlpics.com^
-||chubbygobad.net^
 ||chubbyhotel.com^
 ||chubbyjizz.com^
 ||chubbylatinaporn.com^
@@ -17527,7 +17488,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||cinchedandsecured.com^
 ||cinderella-escorts.com^
 ||cinderella-escorts.de^
-||cindo.store^
 ||cine-films.com^
 ||cine350.com^
 ||cinegay.net^
@@ -17538,7 +17498,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||cinepornogratis.com^
 ||cinepornogratis.xxx^
 ||cinerotic.net^
-||cinevood.love^
 ||cinezik.com^
 ||cinquieme-element.com^
 ||cinselsaglikrehberi.com^
@@ -17586,7 +17545,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||civilization.garden^
 ||cixdd.cfd^
 ||ciyuanji.com^
-||cj171.top^
 ||cj659.top^
 ||cj661.top^
 ||cj668.top^
@@ -17651,7 +17609,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||cjpjdsc.com^
 ||cjporn.com^
 ||cjpuppets.com^
-||ck866.top^
 ||ckjav.com^
 ||ckpacking.com^
 ||ckshoes.net^
@@ -17870,6 +17827,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||clothoff.net^
 ||clothoff.shop^
 ||clothoff.xxx^
+||clothoffxxx.com^
 ||cloud263.com^
 ||cloud9cams.com^
 ||cloudbate.com^
@@ -18021,7 +17979,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||cnpics.com^
 ||cnpics.org^
 ||cnporn.org^
-||cnpornmovies.com^
 ||cnporno.com^
 ||cnpornvideos.com^
 ||cnqczl.com^
@@ -18176,6 +18133,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||cockhero.info^
 ||cockhero.win^
 ||cockify.com^
+||cockjockeys.com^
 ||cockmeter.com^
 ||cockmonsta.com^
 ||cockninjastudios.com^
@@ -18204,7 +18162,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||coco-de-mer.com^
 ||coco-yogi.com^
 ||cocochat.com^
-||cocogal.buzz^
 ||cocogal.online^
 ||cocogal.quest^
 ||cocogals.com^
@@ -18248,7 +18205,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||colagirl.com^
 ||colbyknox.com^
 ||coleccionroja.com^
-||coleen.cam^
 ||coleen13.lat^
 ||colegialasdeverdad.com^
 ||colegialasdeverdad.xxx^
@@ -18645,7 +18601,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||couplescupid.org^
 ||couplesex.info^
 ||couplesexy.com^
-||coupleslivesex.com^
 ||coupleslivesex.org^
 ||couplesseekingteens.com^
 ||couplessexcams.org^
@@ -18659,6 +18614,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||covermodels.com^
 ||covertcanyon.com^
 ||covertjapan.com^
+||covidsex.online^
 ||cowanimalsex.fun^
 ||cowbestialitysex.com^
 ||cowboy-sh.com^
@@ -18781,7 +18737,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||crazyralph.com^
 ||crazysexasian.com^
 ||crazysexpics.com^
-||crazysexstockings.com^
 ||crazysexstory.com^
 ||crazyshit.com^
 ||crazyshitlive.com^
@@ -18889,7 +18844,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||crispyclips.online^
 ||cristalsex.com^
 ||cristalsex.skin^
-||cristalsex.wtf^
 ||crisvip.com^
 ||critic.garden^
 ||crkbav.com^
@@ -18945,7 +18899,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||crushchat.ai^
 ||crushchat.app^
 ||crushfetish.com^
-||crushfetishvideos.com^
 ||crushfling.com^
 ||crushi.ai^
 ||crushnearby.com^
@@ -18998,7 +18951,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||csysxhotel.com^
 ||cszdm88.com^
 ||ct-hollon.com^
-||ct355.top^
 ||ct4kids.com^
 ||ctax-cn.com^
 ||ctbathexperts.com^
@@ -19183,7 +19135,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||cumfetish.net^
 ||cumfiesta.com^
 ||cumfilledindiangirls.com^
-||cumfilledtrannys.com^
 ||cumflation.com^
 ||cumflirt.com^
 ||cumforcover.com^
@@ -19480,7 +19431,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||cybersexchat.co^
 ||cybersexchats.com^
 ||cybersexting.com^
-||cybersextoys.com^
 ||cybersexuals.com^
 ||cybersexworld.com^
 ||cybersocket.com^
@@ -19724,7 +19674,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||daintypanties.com^
 ||daishiyu.com^
 ||daisyapa.com^
-||daisyporno.blog^
 ||daisyporno.com^
 ||daisyporno.skin^
 ||daisyxxxmaee.site^
@@ -19891,7 +19840,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||dategirls.chat^
 ||datehail.site^
 ||dateinasia.com^
-||datekinky.com^
 ||datelinks.net^
 ||datematchfree.com^
 ||datemeindia.com^
@@ -19976,6 +19924,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||dbnaked.com^
 ||dboobs.tv^
 ||dbp942.top^
+||dbporn.com^
 ||dbtdh.com^
 ||dbtosses.com^
 ||dcbosf.com^
@@ -20228,7 +20177,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||delphinefilms.com^
 ||deltaofvenus.com^
 ||deluluporn.com^
-||deluxantalyaescort.site^
 ||deluxeadanaescort.xyz^
 ||deluxeankaraescort.xyz^
 ||deluxebabes.com^
@@ -20240,6 +20188,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||deluxepornos.com^
 ||deluxesakaryaescort.xyz^
 ||deluxewifes.com^
+||deluxmuratpasaescort.site^
 ||deluxtube.com^
 ||demine.org^
 ||demiroseofficial.com^
@@ -20249,7 +20198,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||demonporno.com^
 ||demosaic.me^
 ||demystifyinggayporn.com^
-||denemesurumu.com^
 ||dengweiari.com^
 ||denhd.com^
 ||denisemasino.com^
@@ -20270,12 +20218,10 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||denizliescortcuyuz.com^
 ||denizliescortekibi.com^
 ||denizliescortelden.com^
-||denizliescortfiyatlari.com^
 ||denizliescortgiris.com^
 ||denizliescortgo.com^
 ||denizliescorthot2.com^
 ||denizliescortilanci.com^
-||denizliescortilanlari.com^
 ||denizliescortlarim.com^
 ||denizliescortmarka.com^
 ||denizliescortmerkezi.com^
@@ -20295,7 +20241,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||denizlimerkezefendiescort.com^
 ||denizlimerkezescort.com^
 ||denizlimutlusonescort.com^
-||denizlipamukkaleescort.com^
 ||denizlisaatlikescort.com^
 ||denizlisanalescort.com^
 ||denizlisehirrehberim.com^
@@ -20329,6 +20274,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||descargarmangaspormega.com^
 ||descoperamilf.com^
 ||descorty.com^
+||desenhoshentai.com^
 ||desertcuties.com^
 ||deshichudachudi.com^
 ||deshisexbd.com^
@@ -20814,12 +20760,10 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||dewatogel.forum^
 ||dewibokep.net^
 ||dewmatch.com^
-||dewporn.com^
 ||dexchat.org^
 ||dexhentai.com^
 ||dexnxx.com^
 ||deysi.one^
-||deyunbanzhu.com^
 ||dezgo.com^
 ||dezpila.singles^
 ||dezyred.com^
@@ -20882,7 +20826,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||diabloporn.mobi^
 ||diablotube.mobi^
 ||diabolic.com^
-||dial-agayn.com^
 ||dial-bdsm.com^
 ||dial69.com^
 ||dialsexeprive.fr^
@@ -21317,7 +21260,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||divkynasexescort.info^
 ||divokesny.com^
 ||divorcedhookup.com^
-||divorcefuck.com^
 ||divvc.com^
 ||dixiestrailerpark.com^
 ||dixisex.com^
@@ -21487,6 +21429,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||dlgal.com^
 ||dlhbsh.com^
 ||dlhonghai.com^
+||dljctz.com^
 ||dljlrkgderuy.beauty^
 ||dlkdlk.com^
 ||dlmdedu.com^
@@ -21807,7 +21750,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||dosemealtiescortu.com^
 ||doseofporn.com^
 ||dosexvideo.com^
-||dosexybabe.buzz^
 ||dosexybabe.online^
 ||dosexybabes.com^
 ||dosexybabes.help^
@@ -22162,7 +22104,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||dublajfilmizle.com^
 ||dubporn.com^
 ||dubuddha.org^
-||dubxxx.com^
 ||ducaticams.com^
 ||duciporno.hu^
 ||duckgay.com^
@@ -22192,11 +22133,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||duedapornx9.cfd^
 ||duedapornx9.click^
 ||duedapornx9.cyou^
-||duedapornxa.click^
-||duedapornxc.cfd^
-||duedapornxq.lat^
-||duedapornxs.cyou^
-||duedapornxt.lat^
 ||duexxx.com^
 ||duf888.com^
 ||duftende-hoeschen.de^
@@ -22295,7 +22231,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||dy-qipei.com^
 ||dy0576.com^
 ||dy2468.com^
-||dy564.top^
 ||dy6.me^
 ||dyccwh.com^
 ||dygod.com^
@@ -22584,8 +22519,8 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ebonybabes.org^
 ||ebonybaddies.com^
 ||ebonybbwporno.com^
-||ebonybest.com^
 ||ebonybombas.net^
+||ebonyboobs.org^
 ||ebonyboobspics.com^
 ||ebonybooty.net^
 ||ebonycams.com^
@@ -22655,7 +22590,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ebonysextv.lat^
 ||ebonysexxtv.bond^
 ||ebonysexxtv.lat^
-||ebonysexxtv.online^
 ||ebonyshemale.com^
 ||ebonystate.com^
 ||ebonystrip.com^
@@ -22729,7 +22663,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ecporno.shop^
 ||ecstasytubeporn.com^
 ||ecylt.top^
-||ed094.top^
 ||edecorhome.com^
 ||edelpornos.de^
 ||edenfantasys.com^
@@ -22757,7 +22690,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||eelslap.com^
 ||eemates.com^
 ||eerzurum.com^
-||ef429.top^
 ||efappy.com^
 ||efelerescortgo.xyz^
 ||effedupmovies.com^
@@ -22794,7 +22726,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ehpanda.app^
 ||ehporn.com^
 ||ehrsoft.com^
-||ei465.top^
 ||eicqwehg.cc^
 ||eid1860.com^
 ||eientei.org^
@@ -22933,6 +22864,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||eksvideos.com^
 ||el.nl^
 ||el-ladies.com^
+||elajerkovic.com^
 ||elan40.site^
 ||elaravossexperience.com^
 ||elasin.com^
@@ -23095,6 +23027,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||emmaporn.best^
 ||emmaporn.blog^
 ||emmaporn.com^
+||emmaporn.wtf^
 ||emmas-links.com^
 ||emmi-hill.com^
 ||emmmhub.com^
@@ -23211,7 +23144,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||entryporn.com^
 ||enucuzsexhatti.net^
 ||enyeniescortlar.com^
-||eo449.top^
 ||eongu.com^
 ||eoquetemprahj.com^
 ||eorientalporn.com^
@@ -23299,6 +23231,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||epicbikini.com^
 ||epicgfs.com^
 ||epichandjobs.com^
+||epicpandacash.com^
 ||epicpornhub.com^
 ||epicpornography.com^
 ||epicpornpics.com^
@@ -23364,6 +23297,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||epornercams.com^
 ||epornerd.com^
 ||epornerhd.com^
+||epornerid.com^
 ||epornerpics.com^
 ||epornerporn.com^
 ||eporners.cc^
@@ -23400,7 +23334,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||epovidky.com^
 ||epsilonscan.to^
 ||epsteinhub.lol^
-||eq359.top^
 ||er-sucht-sie-sex.top^
 ||eraporntube.com^
 ||erasermitt.com^
@@ -23432,6 +23365,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||erishagroup.com^
 ||erito.com^
 ||eritonetwork.com^
+||erkala.com^
 ||erkengel.vip^
 ||erkiss.biz^
 ||erkiss.click^
@@ -23843,7 +23777,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||eroticafrica.com^
 ||eroticage.net^
 ||eroticaglobal.com^
-||eroticaiartclub.com^
 ||eroticaingif.com^
 ||eroticamchat.com^
 ||eroticamexico.com^
@@ -23925,6 +23858,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||eroticmassagelondon.uk^
 ||eroticmassagemadrid.net^
 ||eroticmassagemunich.info^
+||eroticmassagepoland.site^
 ||eroticmassageprague.studio^
 ||eroticmassagevietnam.top^
 ||eroticmatureporn.com^
@@ -24074,7 +24008,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||erotikfoto.ru^
 ||erotikgeek.com^
 ||erotikgo.com^
-||erotikistanbul.com^
 ||erotikiz.co^
 ||erotikizle.cc^
 ||erotikizle.shop^
@@ -24289,7 +24222,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||escort-sexgirls.online^
 ||escort-sexrussia.online^
 ||escort-sexservis.online^
-||escort-sexual-dosug.online^
 ||escort-sexuslugi.online^
 ||escort-stuttgart-net.de^
 ||escort-sussex.info^
@@ -24454,7 +24386,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||escortinlatvia.com^
 ||escortinmahipalpur.com^
 ||escortintimlady.online^
-||escortintimsex.online^
 ||escortish.in^
 ||escortistanblue.com^
 ||escortistanbul.info^
@@ -24488,6 +24419,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||escortlar372.xyz^
 ||escortlar444.xyz^
 ||escortlar62.xyz^
+||escortlar675.xyz^
 ||escortlar83.xyz^
 ||escortlar90.xyz^
 ||escortlarburda.com^
@@ -24501,7 +24433,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||escortlook.de^
 ||escortlook.org^
 ||escortmaarssen.nl^
-||escortmadura.com^
 ||escortmalta.info^
 ||escortmaltepe.com^
 ||escortmarketing.com^
@@ -24540,6 +24471,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||escortrush.com^
 ||escorts.luxe^
 ||escorts.works^
+||escorts-argentina.com^
 ||escorts-club.com^
 ||escorts-delhi.in^
 ||escorts-girls-club.gr^
@@ -24614,8 +24546,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||escortsexluxe.online^
 ||escortsexprostitutki.online^
 ||escortsexputana.online^
-||escortsexservis.online^
-||escortsexsvensk.online^
 ||escortsexualukraine.online^
 ||escortsexualuslugi.online^
 ||escortsexuslugi.online^
@@ -24704,7 +24634,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||escortstats.com^
 ||escortsuomi.eu^
 ||escortsuruguay.com^
-||escortsvensksex.online^
 ||escortsvideollamadas.com^
 ||escortsvilla.com^
 ||escortsvip.com^
@@ -24722,7 +24651,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||escorttransexuales.es^
 ||escortuae.com^
 ||escortukrainesex.online^
-||escortuslugisex.online^
 ||escortutrecht.nl^
 ||escortvipbayan.com^
 ||escortvp.com^
@@ -24814,6 +24742,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||et26.top^
 ||etabli-strasbourg.com^
 ||etales.ru^
+||etanggou.com^
 ||eteenporn.com^
 ||eternal-starlets.net^
 ||eternalai.org^
@@ -24949,6 +24878,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||evexxx.me^
 ||evieporno.com^
 ||evieporno2.blog^
+||eviewporn.top^
 ||eviexp.lat^
 ||evilangel.com^
 ||evilangel.me^
@@ -25263,6 +25193,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||facepornvideo.com^
 ||facesforsex.com^
 ||faceshame.xxx^
+||facesitting-paradise.com^
 ||facesittingbbw.com^
 ||facesittingbutts.com^
 ||facesittingchat.com^
@@ -25331,7 +25262,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||fak.xxx^
 ||fake.sex^
 ||fakeagent.com^
-||fakebokep.online^
 ||fakecelebs.com^
 ||fakedriver.net^
 ||fakegayporn.com^
@@ -25456,7 +25386,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||fandistrict.net^
 ||fandomination.net^
 ||fandomr.ing^
-||fanfanrm.icu^
 ||fanfaps.com^
 ||fanfever.com^
 ||fanfic.com^
@@ -26447,7 +26376,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||fetishpapa.click^
 ||fetishpapa.com^
 ||fetishpayperview.com^
-||fetishphiles.com^
 ||fetishphonesexblog.com^
 ||fetishplanet.org^
 ||fetishporn.top^
@@ -26461,8 +26389,10 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||fetishporn-like.com^
 ||fetishporn-one.com^
 ||fetishporn-post.com^
+||fetishporn-show.com^
 ||fetishporn-up.com^
 ||fetishporn-videos.com^
+||fetishpornchance.com^
 ||fetishporncloud.com^
 ||fetishporndeal.com^
 ||fetishporndot.com^
@@ -26710,6 +26640,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||filmerotikizle.co^
 ||filmerotikizle.com^
 ||filmerotixxx.com^
+||filmesadultos.site^
 ||filmescompletos.net^
 ||filmesdesexo.blog^
 ||filmesporno.blog^
@@ -26867,6 +26798,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||findcngay.click^
 ||finderescort.com^
 ||finderotik.dk^
+||finderporn.com^
 ||findescortnu.dk^
 ||findfemdom.com^
 ||findfree.xxx^
@@ -26904,7 +26836,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||findsc.com^
 ||findseniordating.com^
 ||findsex.ca^
-||findsexlinks.com^
 ||findsexparty.com^
 ||findshemaletube.com^
 ||findthatporn.net^
@@ -26970,6 +26901,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||firmancommunityservices.com^
 ||firmboobs.tube^
 ||firmhandspanking.com^
+||first-anal.com^
 ||first-sex-video.com^
 ||firstamateurporn.com^
 ||firstanaldate.com^
@@ -27001,6 +26933,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||firstsexvids.shop^
 ||firstsexx.com^
 ||firstteenporn.cc^
+||firstteenpornclips.com^
 ||firstteensex.cc^
 ||firsttimeporn.website^
 ||firsttimesexstories.top^
@@ -27142,6 +27075,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||fleshok.com^
 ||flex.hamburg^
 ||flexiangels.com^
+||flexidolls.com^
 ||flexigoddess.com^
 ||flexisexy.com^
 ||flexxporn.com^
@@ -27153,7 +27087,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||flingalert.com^
 ||flingsecret.com^
 ||flingster.com^
-||flip-sauna.ch^
 ||flipfucking.com^
 ||fliporn.biz^
 ||fliporno.net^
@@ -27260,7 +27193,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||fluffylychees.com^
 ||fluidsaz.com^
 ||flusterfuck.com^
-||flutefriends.com^
 ||flutterfixes.com^
 ||fluxfun.ai^
 ||fluxnsfw.ai^
@@ -27456,7 +27388,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||fotoscaiunanet.com^
 ||fotoscaserasx.com^
 ||fotosdebucetas.com^
-||fotosdecoroas.com^
 ||fotosdemulheresnuas.net^
 ||fotosdepenis.blog^
 ||fotosdeporno.club^
@@ -27516,7 +27447,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||fpoxxx.us^
 ||fpoxxx1.com^
 ||fprn.lat^
-||fprn.lol^
 ||fprn.quest^
 ||fpsexgals.com^
 ||fpvids.com^
@@ -27786,6 +27716,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||freeadultcontent.us^
 ||freeadulter.fun^
 ||freeadultgames.eu^
+||freeadultiptv.com^
 ||freeadultporn.net^
 ||freeadultporn.tv^
 ||freeadultpornblogs.com^
@@ -27990,7 +27921,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||freehardxxx.com^
 ||freehdgay.cfd^
 ||freehdinterracialporn.in^
-||freehdporn.quest^
 ||freehdporn.su^
 ||freehdporn.tv^
 ||freehdpornvideos.com^
@@ -28247,7 +28177,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||freepornalert.com^
 ||freepornarabsex.com^
 ||freepornaz.com^
-||freepornboard.net^
 ||freepornc.com^
 ||freeporncache.com^
 ||freeporncams.pw^
@@ -28265,7 +28194,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||freeporned.com^
 ||freeporneffect.com^
 ||freepornemperor.com^
-||freepornenergy.com^
 ||freepornerotica.com^
 ||freepornever.com^
 ||freepornfaps.com^
@@ -28348,7 +28276,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||freepornovideos.me^
 ||freepornovideos.net^
 ||freepornovideosite.com^
-||freepornovids.click^
 ||freepornowap.online^
 ||freepornowner.com^
 ||freepornox.com^
@@ -28400,7 +28327,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||freepornuse.com^
 ||freepornvdeos.com^
 ||freepornvid.lol^
-||freepornvid.quest^
 ||freepornvideo.biz^
 ||freepornvideo.click^
 ||freepornvideo.cyou^
@@ -28513,6 +28439,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||freesexkahani.com^
 ||freesexkahani.in^
 ||freesexkontakt.de^
+||freesexlinkexchange.com^
 ||freesexlive.org^
 ||freesexmovie.org^
 ||freesexmovies.rodeo^
@@ -28775,6 +28702,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||freshhotgirls.com^
 ||freshindianclips.pro^
 ||freshindianporn.net^
+||freshjynxmaze.com^
 ||freshlesbiansclip.com^
 ||freshlesbiansclips.com^
 ||freshlesbiansfuck.com^
@@ -29103,7 +29031,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||fuckertown.com^
 ||fuckertub.bond^
 ||fuckertube.net^
-||fuckerville.com^
 ||fucketube.com^
 ||fuckfap.com^
 ||fuckfap.webcam^
@@ -29856,7 +29783,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||g6hentai.com^
 ||g8.pics^
 ||g9ff.com^
-||ga519.top^
 ||gaafo.com^
 ||gabbyledesmaart.com^
 ||gabeclogston.com^
@@ -29887,6 +29813,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||galaing.com^
 ||galakolor.online^
 ||galasti.com^
+||galatrack.com^
 ||galaxiagay.org^
 ||galaxyjsvpn.com^
 ||galaxyporn.net^
@@ -30015,7 +29942,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gapelover.com^
 ||gapemovs.pro^
 ||gapemypussy.com^
-||gaping.wtf^
 ||gapingangels.com^
 ||gapingxxx.com^
 ||gapotube.com^
@@ -30197,6 +30123,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gayallaccess.com^
 ||gayamateurvideo.com^
 ||gayanal.pro^
+||gayanalbunny.com^
 ||gayanzeigen.ch^
 ||gayarabclub.com^
 ||gayasian.click^
@@ -30352,6 +30279,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gayclips.vip^
 ||gayclipsm.com^
 ||gayclipstube.cfd^
+||gayclipz.com^
 ||gaycn.top^
 ||gaycock.cfd^
 ||gaycock.click^
@@ -30690,11 +30618,9 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gaymoviegachimuchi.com^
 ||gaymoviehub.com^
 ||gaymoviesonline.net^
-||gaymoviespage.com^
 ||gaymoviesworld.com^
 ||gaymovievids.com^
 ||gaymovxxx.com^
-||gaymuscle.xyz^
 ||gaymusclebears.org^
 ||gaymusclecam.org^
 ||gaynaletube.click^
@@ -30740,6 +30666,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gaypixelporn.com^
 ||gayplanet.net^
 ||gayplanet.pl^
+||gayplex.com^
 ||gaypm.wiki^
 ||gaypo.wiki^
 ||gayporka.top^
@@ -31072,7 +30999,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gayporno.tv^
 ||gayporno.wiki^
 ||gayporno-videos.com^
-||gaypornofilme.com^
 ||gaypornokore.best^
 ||gaypornoldyong.xyz^
 ||gaypornoldyoung.xyz^
@@ -31163,6 +31089,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gaypornstash.com^
 ||gaypornstepbrofn.xyz^
 ||gaypornstepbrofun.xyz^
+||gaypornstream.xyz^
 ||gaypornstudio.click^
 ||gaypornstudio.com^
 ||gaypornstudioblog.com^
@@ -31192,6 +31119,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gayporntube.cfd^
 ||gayporntube.com^
 ||gayporntube.net^
+||gayporntube.online^
 ||gayporntube.tv^
 ||gayporntubeclips.com^
 ||gayporntubehd.click^
@@ -31268,6 +31196,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gayrettepeescort.com^
 ||gayrettepeeskort.com^
 ||gayrideris.life^
+||gayrivo.com^
 ||gayrookievideos.com^
 ||gayroom.com^
 ||gayroom.space^
@@ -31390,7 +31319,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gaysexdaily.click^
 ||gaysexdate.com^
 ||gaysexdone.com^
-||gaysexer.com^
 ||gaysexfan.com^
 ||gaysexfarm.com^
 ||gaysexfast.click^
@@ -31852,6 +31780,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gazianteptube.com^
 ||gaziemirescortbayan.com^
 ||gazikentescort.com^
+||gaziosmanpasaescort.baby^
 ||gaziosmanpasaescortbest.site^
 ||gaziosmanpasaescortgo.xyz^
 ||gazporn.org^
@@ -31998,14 +31927,13 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gcldyl.com^
 ||gcolle.net^
 ||gd2018.com^
-||gd903.top^
 ||gdahj.com^
 ||gdbarcode.cn^
 ||gdchenguang.com^
 ||gdcxt.com^
+||gdedison.com^
 ||gdhomecare.com^
 ||gdhxcf.com^
-||gdiiou.com^
 ||gdjds.com^
 ||gdjianguohotel.com^
 ||gdjixiang.com^
@@ -32128,6 +32056,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||generateporn.ai^
 ||generateporn.app^
 ||generousporn.com^
+||genesiporn.net^
 ||genesis-porn.xyz^
 ||genesis-porns.app^
 ||genesis-porns.art^
@@ -32144,6 +32073,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||genesisporn.cloud^
 ||genesisporn.fans^
 ||genesisporn.forum^
+||genesisporn.fun^
 ||genesisporn.live^
 ||genesisporn.net^
 ||genesisporn.website^
@@ -32318,6 +32248,19 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||getrichordevtryin.com^
 ||getsex.xxx^
 ||getsexsupergay.baby^
+||getsexthusieuhay.baby^
+||getsexthusieuhay.beauty^
+||getsexthusieuhay.beer^
+||getsexthusieuhay.boats^
+||getsexthusieuhay.bond^
+||getsexthusieuhay.buzz^
+||getsexthusieuhay.christmas^
+||getsexthusieuhay.click^
+||getsexthusieuhay.courses^
+||getsexthusieuhay.cyou^
+||getsexthusieuhay.forum^
+||getsexthusieuhay.garden^
+||getsexthusieuhay.lat^
 ||getsharpei.com^
 ||getsigmasexgay.baby^
 ||getsigmasexgay.beauty^
@@ -32440,7 +32383,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||giaothao.com^
 ||giapaigefacefucking.com^
 ||giapaigexxx.com^
-||gidal.store^
 ||gidsexmayskiy.ru^
 ||gidsexykonakovo.ru^
 ||gidsexzarinsk.ru^
@@ -32488,6 +32430,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gig-porno.net^
 ||gig-porno.org^
 ||giga.xxx^
+||gigacul.com^
 ||gigagilf.com^
 ||gigagun.com^
 ||gigajap.com^
@@ -32544,6 +32487,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gilleslecorre.com^
 ||gimmecams.com^
 ||gimmeporn.xyz^
+||gimmeretro.com^
 ||gimnasioporno.com^
 ||ginagerson.xxx^
 ||ginaspieceofcake.co^
@@ -32787,7 +32731,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||girlstop-extra.info^
 ||girlstryanal.com^
 ||girlsunderarrest.com^
-||girlsupnorth.com^
 ||girlswallowed.com^
 ||girlsway.com^
 ||girlsway.net^
@@ -32859,7 +32802,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||glassdildos.com^
 ||glasses-mania.com^
 ||glassporntube.com^
-||glasssextoy.com^
 ||glavmatures.com^
 ||glhentai.blog^
 ||gljsbj.com^
@@ -33121,8 +33063,8 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||golubok.mobi^
 ||golxxx.mom^
 ||golye.net^
+||gomangas.com^
 ||gomatureporn.com^
-||gombeng.store^
 ||gomenakia.com^
 ||gomilfpics.com^
 ||gomomsex.com^
@@ -33144,7 +33086,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gonzo.com^
 ||gonzo.nu^
 ||gonzo.org^
-||gonzo.wtf^
 ||gonzo-movies.com^
 ||gonzoliving.com^
 ||gonzonetwork.com^
@@ -33169,6 +33110,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||goodgirlslive.com^
 ||goodgirlspassmobile.com^
 ||goodguygv.click^
+||goodhdporn.com^
 ||goodindianporn.net^
 ||goodmeasureblog.com^
 ||goodmeds.store^
@@ -33307,6 +33249,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gotjav.com^
 ||gotmature.net^
 ||gotnude.net^
+||gotoadults.com^
 ||gotoboy.com^
 ||gotofap.org^
 ||gotohole.com^
@@ -33338,7 +33281,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||goxxxtube.com^
 ||gozatube.com^
 ||gozaxxx.com^
-||gp583.top^
 ||gpornx.lol^
 ||gptgirlfriend.online^
 ||gptpornhub.xyz^
@@ -33482,7 +33424,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||grannykiss.com^
 ||grannykit.com^
 ||grannylesbianclub.com^
-||grannylivesexcams.com^
 ||grannylovesbbc.com^
 ||grannylovesblack.com^
 ||grannylovesyoungcock.com^
@@ -33882,6 +33823,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gunbonks.com^
 ||gunesliescortgo.xyz^
 ||gunesliescortmanken.xyz^
+||gungorenescort.baby^
 ||gungorenescortgo.xyz^
 ||gungorenescortqueen.site^
 ||gunporntube.com^
@@ -33906,7 +33848,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gurgaonrussianescorts.com^
 ||gurgaonrussianescortsindelhi.in^
 ||gurialinda.com^
-||gurih.store^
 ||guro.cx^
 ||guru.porn^
 ||guruasian.com^
@@ -33944,9 +33885,9 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||guyswithcams.live^
 ||guyswithiphones.com^
 ||guywh.com^
-||gv021.top^
 ||gv173.com^
 ||gv6y.gay^
+||gv73.gay^
 ||gv79.gay^
 ||gv8nh.gay^
 ||gvbigtube.click^
@@ -33970,8 +33911,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gvt5.gay^
 ||gvtb.gay^
 ||gvvj.gay^
-||gw646.top^
-||gw802.top^
 ||gwasi.com^
 ||gwe613.top^
 ||gwool.com^
@@ -34108,6 +34047,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||gywhths.com^
 ||gyxgjc.com^
 ||gyxjjz.com^
+||gyxmmm.buzz^
 ||gyxxmffb.com^
 ||gyzs888.com^
 ||gz-jiexin.com^
@@ -34449,15 +34389,16 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||haoyhq.com^
 ||haoyumuye.com^
 ||haoyunbang.cn^
-||haozhonghuanbao.com^
 ||hapgirls.top^
 ||happinessinlove.tw^
 ||happy-granny.com^
 ||happy-porn.com^
 ||happy2hub.eu^
 ||happybed.com^
+||happybigboobs.com^
 ||happychats.live^
 ||happyescorts.com^
+||happyescortsinizmir.com^
 ||happyfappy.net^
 ||happyfappy.org^
 ||happygay.cc^
@@ -34704,7 +34645,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||haruawuu.gay^
 ||harvest4u.com^
 ||harvestglobal.site^
-||hasanburkay.com^
 ||hasbicmanhwa.com^
 ||hashpornhub.xyz^
 ||hasilskor.lol^
@@ -34820,7 +34760,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||hbzfx.com^
 ||hbzhongmei.com^
 ||hbznwy.com^
-||hc400.top^
 ||hc6.org^
 ||hc7h.com^
 ||hcavideos.com^
@@ -34928,6 +34867,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||hdds168.com^
 ||hddsex.com^
 ||hddxxx.com^
+||hdefcams.com^
 ||hdefporn.com^
 ||hdeng.xyz^
 ||hderotik.life^
@@ -35166,7 +35106,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||hdpornos.net^
 ||hdpornos.xxx^
 ||hdpornoseyret.net^
-||hdpornosik.cyou^
 ||hdpornostars.com^
 ||hdpornovideok.hu^
 ||hdpornoxvideos.com^
@@ -35321,7 +35260,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||hdtubemovies.pro^
 ||hdtubemovies.xxx^
 ||hdtubeporn.me^
-||hdtubesex.com^
 ||hdtubess.com^
 ||hdtubexxx.com^
 ||hdturkcealtyaziporno.online^
@@ -35333,7 +35271,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||hdways.com^
 ||hdwetpussy.com^
 ||hdwuyi.com^
-||hdx.lol^
 ||hdxnxx.date^
 ||hdxnxx.onl^
 ||hdxnxx.org^
@@ -35519,6 +35456,8 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||heli-ex.com^
 ||helixstudios.com^
 ||helixstudios.net^
+||helixtech.app^
+||helixxx.com^
 ||hell-lords.com^
 ||hell-porno.com^
 ||hellagoodporn.com^
@@ -35955,7 +35894,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||hentaireader.org^
 ||hentairider.com^
 ||hentairock.com^
-||hentairoom.com^
 ||hentairosub.com^
 ||hentairox.com^
 ||hentairun.com^
@@ -36218,7 +36156,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||heyuancy.com^
 ||heyuri.net^
 ||heyzo.com^
-||hf278.top^
 ||hfb888.com^
 ||hfcjxx.com^
 ||hfdhmc.com^
@@ -36244,7 +36181,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||hgmo.com^
 ||hgshibang.com^
 ||hgsqdj.com^
-||hguoo.com^
 ||hgwangzhi.com^
 ||hgx26.com^
 ||hgxiaochi.com^
@@ -36760,7 +36696,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||hnzthk.com^
 ||ho-t.net^
 ||ho5ho.com^
-||ho831.top^
 ||hobby.porn^
 ||hobby-amateure.net^
 ||hobby-porn.com^
@@ -37867,7 +37802,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||hotsex.pro^
 ||hotsex.tv^
 ||hotsex.us^
-||hotsex.wiki^
 ||hotsexb.com^
 ||hotsexbuddies.com^
 ||hotsexcam.net^
@@ -38408,6 +38342,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||huangguoai.ai^
 ||huangguoai.com^
 ||huangguoaii.cc^
+||huangguoav.live^
 ||huangguodrama.ai^
 ||huangguom.com^
 ||huangse.love^
@@ -38455,6 +38390,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||hugeassanal.com^
 ||hugeboobs.pics^
 ||hugeboobs.tv^
+||hugeboobsphotos.com^
 ||hugeboobspictures.com^
 ||hugeboobspix.com^
 ||hugeboobswomen.com^
@@ -38481,6 +38417,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||hugetits.me^
 ||hugetits.tv^
 ||hugetitsboobs.com^
+||hugetitscam.net^
 ||hugetitsfucking.com^
 ||hugetitsfucks.com^
 ||hugetitslist.com^
@@ -39086,7 +39023,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ikuhentai.net^
 ||ikvalue.com^
 ||ikwilgeneuktworden.nl^
-||il945.top^
 ||ild.de^
 ||ilesbianporn.com^
 ||ilesbiansporn.com^
@@ -39166,6 +39102,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||iluxine.com^
 ||ilyporn.com^
 ||im.cz^
+||im-dating.com^
 ||im4free.com^
 ||imafemdom.com^
 ||image2video.org^
@@ -39318,6 +39255,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||incesto.me^
 ||incesto69.com^
 ||incestology.pro^
+||incestolove.site^
 ||incestonacional.com^
 ||incestoporno.com^
 ||incestos.online^
@@ -39531,6 +39469,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||indianporn.cam^
 ||indianporn.click^
 ||indianporn.fun^
+||indianporn.green^
 ||indianporn.hair^
 ||indianporn.ink^
 ||indianporn.io^
@@ -39748,6 +39687,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||indianxxx.rodeo^
 ||indianxxx.su^
 ||indianxxx.vip^
+||indianxxx.watch^
 ||indianxxx.xyz^
 ||indianxxx365.com^
 ||indianxxx69.com^
@@ -39775,7 +39715,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||indianzex.com^
 ||indiaperfumedaddy.com^
 ||indiaporn.su^
-||indiaporner.com^
 ||indiapornfilm.org^
 ||indiapornonline.com^
 ||indiaporntube.org^
@@ -39878,6 +39817,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ineedthis.ai^
 ||inegolescortgo.xyz^
 ||inescapablebondage.com^
+||inetbest.com^
 ||infagirls.com^
 ||infatuated.ai^
 ||inferiorasian.com^
@@ -39919,7 +39859,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ingyensexvideo.com^
 ||ingyenszexvideok.hu^
 ||inhairypussy.com^
-||inhomemadeporn.com^
 ||inhumanity.com^
 ||iniberita.link^
 ||inibokep.info^
@@ -40065,7 +40004,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||intime-abenteuer.net^
 ||intimeroticescort.online^
 ||intimescort-sex.online^
-||intimescortsex.online^
 ||intimescortsexual.online^
 ||intimexxx.com^
 ||intimgirls.ru^
@@ -40333,6 +40271,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||istanbulpirasa.world^
 ||istanbulprincess77.xyz^
 ||istanbulsancaktepeescort.cfd^
+||istanbulsexsohbethatti.online^
 ||istanbulsondaj.net^
 ||istanbulsultanbeyliescort.cfd^
 ||istanbulsultangaziescort.cfd^
@@ -40345,6 +40284,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||istanbulyabanciescort.xyz^
 ||istescortadult.com^
 ||isthisreal.com^
+||istinyeescorts10.xyz^
 ||istripper.cam^
 ||istripper.com^
 ||istripper.live^
@@ -40391,7 +40331,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||itsacgaa123.space^
 ||itsallgay.eu^
 ||itscleolive.com^
-||itscleolivecams.com^
 ||itserotica.com^
 ||itsex.tube^
 ||itsfuck.top^
@@ -40414,7 +40353,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||itubex.com^
 ||ity821.top^
 ||iub075.top^
-||iv092.top^
 ||ivagina.com^
 ||iverfs.com^
 ||ivirtualgirls.com^
@@ -40580,6 +40518,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||iyottube.co^
 ||iyoung18.com^
 ||izgrecii.ru^
+||izidate.com^
 ||izinporno12.shop^
 ||izisex.net^
 ||izleporno.biz^
@@ -40651,7 +40590,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||jabcomix-porn.com^
 ||jabhentai.com^
 ||jable.one^
-||jable.site^
 ||jable.tv^
 ||jable.wiki^
 ||jablehk.com^
@@ -40687,6 +40625,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||jagex-rs.com^
 ||jagonyabokep.com^
 ||jaguar388.lol^
+||jahandata.com^
 ||jahitchcock.com^
 ||jahvideos.com^
 ||jaidefinichon.com^
@@ -40726,7 +40665,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||jamiegillisporn.com^
 ||jammufun.in^
 ||janacomix.com^
-||janalinks.com^
 ||janetcams.com^
 ||janeza.ru^
 ||janineetherington.com^
@@ -41164,7 +41102,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||jav24.com^
 ||jav24hd.net^
 ||jav2c.com^
-||jav2free.com^
 ||jav321.com^
 ||jav365.cyou^
 ||jav444.com^
@@ -41590,7 +41527,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||javstream.us^
 ||javsub.guru^
 ||javsub.us^
-||javsub.wiki^
 ||javsub.xyz^
 ||javsubbed.net^
 ||javsubidn.tv^
@@ -41942,7 +41878,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||jili333.club^
 ||jilkatha.com^
 ||jillvr.com^
-||jilmek.store^
 ||jimmydrawsvr.com^
 ||jimmyjane.com^
 ||jimperial.top^
@@ -42085,6 +42020,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||jjlove.cc^
 ||jjmhw2.top^
 ||jjppx.com^
+||jjshe.live^
 ||jjuliantherapy.com^
 ||jjvids.com^
 ||jjxnb.com^
@@ -43200,7 +43136,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||kemono.cr^
 ||kemono.party^
 ||kemperates.lol^
-||kemproh.store^
 ||kendrajames.com^
 ||kendralist.com^
 ||kenhcliphot.com^
@@ -43210,7 +43145,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||kennycomix.com^
 ||kentaweb.com^
 ||kentgallery.com^
-||kentu.store^
 ||kenxxx.com^
 ||kenyaadultblog.com^
 ||kenyanporn.org^
@@ -43236,6 +43170,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||kern-china.com^
 ||kesanlitrading.com^
 ||keumshow.com^
+||keutar.com^
 ||kevaseler.com^
 ||key8.com^
 ||keyhole.agency^
@@ -43723,12 +43658,14 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||kleverig.eu^
 ||klgirl.net^
 ||klica33.com^
+||kliccami.com^
 ||klikbokep.com^
 ||kliniktempik.asia^
 ||klmanga.mba^
 ||klmanga.plus^
 ||klmanga.works^
 ||klmanga.zone^
+||klmnet.com^
 ||kloors.com^
 ||klovern41sd.com^
 ||klpjescorts01.com^
@@ -43911,6 +43848,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||kolkatanightescorts.com^
 ||kolkatasex.best^
 ||kolkatasex.hair^
+||kolkatasex.life^
 ||kolkatasex.watch^
 ||kolkatasexvideo.beauty^
 ||kolkatasexvideo.best^
@@ -43953,7 +43891,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||konterwin88.lol^
 ||kontex-ww.de^
 ||kontol.in^
-||kontol.store^
 ||kontolbesar.top^
 ||konulufilmler2.cc^
 ||konuluporno.cfd^
@@ -43966,6 +43903,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||konya-escort.org^
 ||konyaaltiescort.cfd^
 ||konyaaltiescortgo.xyz^
+||konyaesc.lol^
 ||konyaescort.cfd^
 ||konyaescortbayan.com^
 ||konyaescortbayan.org^
@@ -44229,6 +44167,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||kurosearch.com^
 ||kurtkoyescort6.xyz^
 ||kurtkoyescortlari.com^
+||kurtkoyescorts10.xyz^
 ||kurtsexporn.com^
 ||kuruelporno.com^
 ||kuruelporno.org^
@@ -44247,10 +44186,8 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||kutahyaescortbayan.com^
 ||kutahyaescortgo.com^
 ||kutahyaescorthot2.com^
-||kutegiagoc.com^
 ||kutjeneuken.nl^
 ||kutjeporno.com^
-||kutwijf.com^
 ||kuvake.net^
 ||kuwait-hospitality.com^
 ||kuwaitservicing.com^
@@ -44829,6 +44766,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||leak-xxx.com^
 ||leakav.com^
 ||leakblitz.com^
+||leakdirty.com^
 ||leaked.fans^
 ||leaked.porn^
 ||leakedamateurporn.xyz^
@@ -45157,7 +45095,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||lesbiansspanking.com^
 ||lesbianstate.com^
 ||lesbiansubmission.com^
-||lesbiansucking.com^
 ||lesbiansultra.com^
 ||lesbiantribe.com^
 ||lesbiantube.club^
@@ -45324,7 +45261,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||lhos.ru^
 ||lhrescorts.com^
 ||lhs667.top^
-||li234.top^
 ||li383.top^
 ||li403.top^
 ||li411.top^
@@ -45477,6 +45413,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||lightnovel.fun^
 ||lightnovel.us^
 ||lightporn.net^
+||lightsof.love^
 ||lightsouthern.com^
 ||liheli.cc^
 ||liisex.com^
@@ -45524,6 +45461,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||linamila.tv^
 ||linasextube.com^
 ||linaxxx.top^
+||linckonly.com^
 ||lindacams.com^
 ||lindachat.ru^
 ||lindaprofiles.com^
@@ -45569,6 +45507,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||linkdegrupoporno.xyz^
 ||linke.ai^
 ||linkex-douga.com^
+||linkfabulous.com^
 ||linkfaps.com^
 ||linkfuns.com^
 ||linkhumper.com^
@@ -45718,6 +45657,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||liveanalsexcams.com^
 ||liveandhot.com^
 ||liveandsexy.cam^
+||liveandsexy.com^
 ||liveangelz.com^
 ||livearaby.com^
 ||liveasiancams.biz^
@@ -45801,6 +45741,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||liveescortreviews.com^
 ||livefap.net^
 ||livefeet.com^
+||livefemdomporn.com^
 ||livefetishwebcams.com^
 ||liveflirt.com^
 ||liveflirtchat.ru^
@@ -46007,7 +45948,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||livesexstars.eu^
 ||livesextion.com^
 ||livesextown.com^
-||livesextrans.com^
 ||livesexualcams.com^
 ||livesexuni.com^
 ||livesexvn.com^
@@ -46088,7 +46028,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||lizhubao.com^
 ||lizsex.com^
 ||lizsex.lol^
-||lizsex.wtf^
 ||ljbh601.com^
 ||ljbh909.com^
 ||ljbna.com^
@@ -46424,6 +46363,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||love691.com^
 ||love722.com^
 ||love759.com^
+||love7899.com^
 ||love855.com^
 ||loveaiporn.com^
 ||loveald.cn^
@@ -46795,7 +46735,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||lucidflix.com^
 ||luciesex.blog^
 ||luciesex.com^
-||luciesex.wtf^
 ||luciesex2.wtf^
 ||lucifer.com^
 ||lucioushentai.com^
@@ -46874,7 +46813,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||luoliz.com^
 ||luomadoor.com^
 ||luomutrip.com^
-||luosbg.com^
 ||luovideos.com^
 ||lupoporno.com^
 ||lupoporno.pro^
@@ -47087,7 +47025,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||lyytsj.com^
 ||lyzszysb.cn^
 ||lzainuo.com^
-||lzhytwl.com^
 ||lzjxqt.com^
 ||lzq70.top^
 ||lzrenai.com^
@@ -47356,7 +47293,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||makerlove.com^
 ||makexxxmovies.com^
 ||makingyougay.com^
-||makjleb.sbs^
 ||malaga24h.com^
 ||malaharis.lol^
 ||malakamala.com^
@@ -47461,6 +47397,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||malluporn.net^
 ||malluporn.pro^
 ||malluporn.team^
+||malluporn.today^
 ||malluporn.world^
 ||mallusex.beauty^
 ||mallusex.best^
@@ -47486,6 +47423,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||maltepebayanlar.cfd^
 ||maltepeescort.com^
 ||maltepeescort1.vip^
+||maltepeescort8.site^
 ||maltepeescortgo.xyz^
 ||maltepeescortpartner.com^
 ||maltepeliescort.net^
@@ -47766,7 +47704,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||maopianporn.vip^
 ||maoshuacn.com^
 ||mapasingles.com^
-||mapcityworld.com^
 ||mapeados.com^
 ||mapslko.com^
 ||maptiles.xyz^
@@ -47890,6 +47827,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||masahub.wiki^
 ||masahub2.com^
 ||masajerotic.org^
+||masajes-eroticos.shop^
 ||masajescort.com^
 ||masajsalonuistanbul.info^
 ||masala69.com^
@@ -48172,7 +48110,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||matureexpert.com^
 ||matureeye.com^
 ||maturefeed.com^
-||maturefilmxxx.com^
 ||matureflirting.com^
 ||matureflirtsnearby.com^
 ||matureframe.com^
@@ -48787,10 +48724,12 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mc983.top^
 ||mc994.top^
 ||mc997.top^
+||mcafeepro.com^
 ||mcalevey.com^
 ||mccroskeylawfirm.com^
 ||mcentertainment.org^
 ||mchelp.xyz^
+||mckenzieleeblog.com^
 ||mclarissa.com^
 ||mclass.com^
 ||mcleansales.com^
@@ -48802,6 +48741,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mcva.cc^
 ||mcyacg.com^
 ||md115.com^
+||mdanai.live^
 ||mdapp.club^
 ||mdapp.xxx^
 ||mdav.art^
@@ -48846,6 +48786,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mebelovesk.click^
 ||mebgay.com^
 ||mec617.top^
+||mecidiyekoyescort1.baby^
 ||mecidiyekoyescortgo.xyz^
 ||mecidiyekoymarka.com^
 ||mecoool.com^
@@ -48925,6 +48866,9 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||meetsexsupergay.asia^
 ||meetsexsupergay.autos^
 ||meetsexsupergay.boats^
+||meetsexthusieuhay.beauty^
+||meetsexthusieuhay.beer^
+||meetsexthusieuhay.boats^
 ||meetsexy.club^
 ||meetsigmasexgay.asia^
 ||meetsigmasexgay.autos^
@@ -49066,6 +49010,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||meili9.com^
 ||meilleurpornos.com^
 ||meimodh.com^
+||mein-sexportal.com^
 ||meinadultportalcheck.com^
 ||meincamchat.de^
 ||meine-perlen.com^
@@ -49114,7 +49059,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||melonstube.com^
 ||memature.com^
 ||memberpassword.com^
-||memek.store^
 ||memektebal.forum^
 ||memektembem.cfd^
 ||memeliporno.click^
@@ -49205,7 +49149,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mercedesmaidana.com^
 ||mercilessdominas.com^
 ||mercosurgay.com^
-||meriang.sbs^
 ||merisexkahani.com^
 ||merisexstory.com^
 ||meritkingguncelgirisi.com^
@@ -49251,7 +49194,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||messytube.com^
 ||messyzoosex.com^
 ||mesthit.ru^
-||mestreafiliados.com^
 ||mestrip.com^
 ||mesumga.com^
 ||met-art.com^
@@ -49480,7 +49422,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||milf-szexpartner.hu^
 ||milf-tok.com^
 ||milf2fuck.com^
-||milf300.com^
 ||milf33.com^
 ||milf441bbc.icu^
 ||milf4ever.com^
@@ -49567,6 +49508,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||milffinder-adult.org^
 ||milffindr.org^
 ||milffindrchat.org^
+||milffoton.com^
 ||milffox.com^
 ||milffox.mobi^
 ||milffuck.fun^
@@ -50033,7 +49975,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||misssexhotust-dzheguta.ru^
 ||missshortandsexy.hu^
 ||misstrends.com^
-||missvenicebeach.com^
+||misstrixiefox.com^
 ||missvid.tv^
 ||missybooksori.com^
 ||missycharme.com^
@@ -50097,6 +50039,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mistygates.com^
 ||mitaku.net^
 ||mitao404.com^
+||mitao404.live^
 ||mitaoav8.cyou^
 ||mitech-mut.com^
 ||mitolyn.fr^
@@ -50149,7 +50092,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mjpron.online^
 ||mjsq.xxx^
 ||mjwalsh.work^
-||mk360.top^
 ||mk753.xyz^
 ||mk78h.com^
 ||mkjwn.com^
@@ -50259,7 +50201,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mnoqv.cn^
 ||mnsysj.com^
 ||mnvg.com^
-||mo391.top^
 ||moanchat.com^
 ||moanporn.com^
 ||moansporn.com^
@@ -50281,6 +50222,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mobile-matureporn.com^
 ||mobile-maturesex.com^
 ||mobile-porn.net^
+||mobile-pornvideos.com^
 ||mobile-xvideos.com^
 ||mobile-xxxtube.com^
 ||mobile-youjizz.info^
@@ -50374,7 +50316,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||modernpornhd.com^
 ||modestporn.com^
 ||modexxx.com^
-||modjocams.com^
 ||modland.top^
 ||modoav.com^
 ||modporn.com^
@@ -50556,6 +50497,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||momsbangteens.com^
 ||momsboyssex.com^
 ||momsboytoy.com^
+||momscrewboy.com^
 ||momsecstasy.com^
 ||momseducesteens.com^
 ||momseries.com^
@@ -50933,7 +50875,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mpvi.lol^
 ||mpzw.la^
 ||mq12367.com^
-||mq593.top^
 ||mqmzuim.top^
 ||mqpeijian.com^
 ||mracoolaid.com^
@@ -51112,6 +51053,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||muglaajansi.com^
 ||muglaescort.cfd^
 ||muglaescort.org^
+||muglaescort1.baby^
 ||muglaescortbayan.net^
 ||muglaescortgo.com^
 ||muglaescorthot2.com^
@@ -51122,6 +51064,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||muitohentai.com^
 ||mujeres-maduras.es^
 ||mujeresdesnudas.club^
+||mujerespeludasgratis.com^
 ||mukeai.app^
 ||mukhathalatemple.com^
 ||mukiskitchen.com^
@@ -51215,6 +51158,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||muraldoprazer.com^
 ||muramura.click^
 ||muratliescortgold.site^
+||muratpasaescort2.lol^
 ||muratpasaescortgo.xyz^
 ||murreeescortsgirls.com^
 ||murrtube.net^
@@ -51282,7 +51226,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mvideoroom.org^
 ||mvideos.pro^
 ||mvu835.top^
-||mw029.top^
 ||mw265.com^
 ||mwdbciwd.club^
 ||mwsl.mom^
@@ -51491,6 +51434,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mydesixxx3.cam^
 ||mydesixxx3.com^
 ||mydesixxx3.digital^
+||mydesixxx3.forum^
 ||mydesixxx3.life^
 ||mydesixxx3.live^
 ||mydesixxx3.mom^
@@ -51778,7 +51722,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mynakedselfie.com^
 ||mynaughtyporn.com^
 ||mynaughtyscotland.com^
-||mynewpornvideo.com^
 ||mynsk.info^
 ||mynude.art^
 ||mynude.help^
@@ -51889,6 +51832,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mypussysweet.com^
 ||myqqc.com^
 ||myraconnell.com^
+||myragoldxxx.com^
 ||myrapefilm.com^
 ||myrasanyal.com^
 ||myreadingmanga.info^
@@ -51923,6 +51867,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||mysexvideos.cc^
 ||mysexvids.net^
 ||mysexwebcam.com^
+||mysexy.app^
 ||mysexybabes.com^
 ||mysexycamera.com^
 ||mysexycouple.com^
@@ -52030,6 +51975,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||myxvideos.org^
 ||myxxgirl.com^
 ||myxxvideos.help^
+||myxxx.tube^
 ||myxxx.wtf^
 ||myxxx.xyz^
 ||myxxxa.com^
@@ -52500,9 +52446,9 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||natashaescort.com^
 ||natashafromrussia.com^
 ||natashanice.com^
+||natengeil.com^
 ||national-porn.art^
 ||nationescort.com^
-||nationwide-support.com^
 ||natsinc.com^
 ||nattinatashamusic.com^
 ||nattsumi.com^
@@ -52515,7 +52461,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||naturalcapitalism.info^
 ||naturalfuckvideos.com^
 ||naturalintimacy.top^
-||naturallybusty.com^
 ||naturallynakednudes.com^
 ||naturalrevenue.com^
 ||naturaltranssexuals.com^
@@ -52795,7 +52740,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||neuerasse.com^
 ||neuerotik.com^
 ||neuerporno.com^
-||neukadressen.com^
 ||neukafspraakjes.com^
 ||neukenfilm.net^
 ||neukenvandaag.nl^
@@ -53129,10 +53073,8 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||nghien.sex^
 ||ngicliks.com^
 ||ngjkm.com^
-||ngloco.store^
 ||ngmjwrt.cc^
 ||ngoimaurovi.com^
-||ngrempon.store^
 ||nguonsex.net^
 ||nguonsex.org^
 ||ngxsh01.cfd^
@@ -53383,7 +53325,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||nizipescort.com^
 ||nizporn.com^
 ||nj-haiertv.com^
-||nj293.top^
 ||nj399.com^
 ||njav.com^
 ||njav.nl^
@@ -53397,6 +53338,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||njdycb.com^
 ||njgum.com^
 ||njhaodong.com^
+||njirporn.online^
 ||njjwjs.com^
 ||njp3gs.com^
 ||njrgjx.com^
@@ -53527,6 +53469,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||no28hotel.com^
 ||no2mall.com^
 ||noahmadeinchina.com^
+||noandmi.top^
 ||nobarbokep.com^
 ||nobiliserotica.com^
 ||nobodyhome.tv^
@@ -53911,7 +53854,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||nudeasianporn.shop^
 ||nudeasianpornvideos.shop^
 ||nudeasiansex.shop^
-||nudeasianspictures.com^
 ||nudeasianxxx.shop^
 ||nudebabe.pictures^
 ||nudebabes.sexy^
@@ -54088,6 +54030,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||nudemaledancers.tv^
 ||nudemalepornstars.com^
 ||nudemalexv.com^
+||nudemanselfies.com^
 ||nudemature.info^
 ||nudematureladies.com^
 ||nudematuremoms.com^
@@ -54253,6 +54196,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||nudevista.se^
 ||nudevista.tv^
 ||nudevista.tw^
+||nudevista.wtf^
 ||nudevista.yachts^
 ||nudewalkers.com^
 ||nudeweb.com^
@@ -54397,7 +54341,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||nung18free.lol^
 ||nungcc-max.blog^
 ||nunggay.com^
-||nunglon.pro^
 ||nungpo99.lol^
 ||nungvl.net^
 ||nungxxx.com^
@@ -54501,7 +54444,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||nycescortmodels.com^
 ||nycshemales.com^
 ||nydominatrix.com^
-||nyepong.store^
 ||nyhotties.com^
 ||nyjjss.com^
 ||nyl0ns.com^
@@ -54582,7 +54524,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||obsexioncams.com^
 ||obsoleteonline.com^
 ||obsudim.net^
-||oc596.top^
 ||ocabare.com^
 ||ocadults.net^
 ||ocams.org^
@@ -54660,7 +54601,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ogryass.com^
 ||ogtattedlatina.com^
 ||oguzeliescort.com^
-||oh319.top^
 ||ohah.online^
 ||ohahoh.com^
 ||ohamateurtube.com^
@@ -54867,6 +54807,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||oldladyporn.xyz^
 ||oldladysexclips.com^
 ||oldlikes.com^
+||oldmanboytube.com^
 ||oldmatureguide.com^
 ||oldmaturepost.com^
 ||oldmaturepussy.com^
@@ -54902,7 +54843,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||oldpussy.net^
 ||oldpussy.pro^
 ||oldpussy.tv^
-||oldpussyexam.com^
 ||oldpussyporn.com^
 ||oldpussysex.com^
 ||oldpussysex.shop^
@@ -55101,6 +55041,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||onenightstanddate.com^
 ||oneononesex.com^
 ||oneononesexcam.com^
+||oneporn.mobi^
 ||oneporn.net^
 ||onepornlist.com^
 ||onepornlist.top^
@@ -55209,6 +55150,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||only4adults.net^
 ||onlyaccounts.io^
 ||onlyallsites.com^
+||onlyasianmovies.net^
 ||onlyasianpornvideos.shop^
 ||onlyasiansex.click^
 ||onlyasiansex.shop^
@@ -55587,6 +55529,11 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||opensexdoll.com^
 ||opensexsupergay.asia^
 ||opensexsupergay.casa^
+||opensexthusieuhay.baby^
+||opensexthusieuhay.beauty^
+||opensexthusieuhay.cfd^
+||opensexthusieuhay.christmas^
+||opensexthusieuhay.click^
 ||opensigmasexgay.baby^
 ||opensigmasexgay.beauty^
 ||opensigmasexgay.boats^
@@ -55753,7 +55700,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ososedki.com^
 ||ossguide.com^
 ||ostroeporno.com^
-||osxvnc.com^
 ||otakuporn.com^
 ||otbboyz.com^
 ||oteby.com^
@@ -55846,7 +55792,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||outstandingporn.com^
 ||outugeersanbuqu.cn^
 ||outuk.com^
-||outxxx.vip^
 ||ovacovid.com^
 ||over18arcade.com^
 ||over40handjobs.com^
@@ -55871,7 +55816,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||owl-erotik.com^
 ||own-matureporn.com^
 ||own-xxxtube.com^
-||ownittech.com^
 ||ownporn.club^
 ||ownsexvideos.com^
 ||owo.gay^
@@ -56179,6 +56123,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pantyhoseme.com^
 ||pantyhoseminx.com^
 ||pantyhosenight.com^
+||pantyhoseone.com^
 ||pantyhosepeaches.com^
 ||pantyhosepink.com^
 ||pantyhoseporns.com^
@@ -56449,7 +56394,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||peitsche.de^
 ||pejnya.me^
 ||pejnya.ru^
-||pejuh.store^
 ||pekob.fyi^
 ||pekobs.online^
 ||peladas69.xxx^
@@ -56508,7 +56452,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||penthousegold.com^
 ||penthousepets.net^
 ||penthousetv.video^
-||pentil.store^
 ||pentouba.com^
 ||penyporn.mobi^
 ||pepcams.com^
@@ -56586,7 +56529,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||period-calendar.com^
 ||perisxxx.com^
 ||periteen.com^
-||perkosa.store^
 ||perkybabes.com^
 ||perkyshemale.com^
 ||perlpay.com^
@@ -56770,7 +56712,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||phim18vip.net^
 ||phim3x.xxx^
 ||phim69.xxx^
-||phim69xxx.com^
 ||phimditnhau.tv^
 ||phimguru.com^
 ||phimhay47.net^
@@ -56941,6 +56882,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||phimsexhayvui.com^
 ||phimsexhayz.biz^
 ||phimsexhayz.com^
+||phimsexhayz.fit^
 ||phimsexhayz.net^
 ||phimsexhayz.org^
 ||phimsexhayza.net^
@@ -56954,7 +56896,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||phimsexhdmoinhat.com^
 ||phimsexhentai.blog^
 ||phimsexhentai.cc^
-||phimsexhentai.lol^
 ||phimsexhentai.tv^
 ||phimsexhentai.vip^
 ||phimsexhentaiz.top^
@@ -57063,6 +57004,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||phimsexsubs.com^
 ||phimsexsubs.pro^
 ||phimsexsubxxx.com^
+||phimsexsuong.blog^
 ||phimsexsuong3x.net^
 ||phimsextapthe.net^
 ||phimsexthailan.net^
@@ -57107,6 +57049,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||phimsexviet24h.com^
 ||phimsexviet365.com^
 ||phimsexviet39.com^
+||phimsexvietbebe.com^
 ||phimsexvietbubu.com^
 ||phimsexvietchon.com^
 ||phimsexviethay18.com^
@@ -57273,8 +57216,8 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||photosex.biz^
 ||photosexgay.com^
 ||photosexx.ru^
-||photosporn.net^
 ||photospornonues.com^
+||photoweb.net^
 ||photoweb.ru^
 ||phprcdn.com^
 ||phpremium.com^
@@ -57283,7 +57226,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||phqe.com^
 ||phree-porn.com^
 ||phsdh.com^
-||phub.click^
 ||phub.site^
 ||phubdownload.net^
 ||phun.org^
@@ -58064,6 +58006,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porn.soy^
 ||porn.support^
 ||porn.to^
+||porn.tw^
 ||porn.ventures^
 ||porn.xxx^
 ||porn--xp.com^
@@ -58304,6 +58247,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porn156.com^
 ||porn157.com^
 ||porn15s.com^
+||porn160.com^
 ||porn18.cc^
 ||porn18.com^
 ||porn18.life^
@@ -58382,6 +58326,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porn40.com^
 ||porn40.me^
 ||porn410.com^
+||porn43.com^
 ||porn4days.blue^
 ||porn4days.com^
 ||porn4days.net^
@@ -58445,6 +58390,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porn724.shop^
 ||porn77.info^
 ||porn78.info^
+||porn7xxx.pro^
 ||porn8.site^
 ||porn8.top^
 ||porn8.tube^
@@ -58460,11 +58406,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porn80xb.cfd^
 ||porn80xb.cyou^
 ||porn80xv.click^
-||porn80xxa.cfd^
-||porn80xxa.lat^
-||porn80xxb.click^
-||porn80xxq.click^
-||porn80xxt.shop^
 ||porn80xxu.click^
 ||porn80xxy.cfd^
 ||porn80xxy.click^
@@ -58494,7 +58435,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornaar.com^
 ||pornabby.com^
 ||pornabby.lol^
-||pornabby.skin^
 ||pornabc.com^
 ||pornabc.net^
 ||pornabu.net^
@@ -58578,6 +58518,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornarabx.com^
 ||pornarch.com^
 ||pornarchive.top^
+||pornarchives.site^
 ||pornarena.pro^
 ||pornari.com^
 ||pornarm.net^
@@ -58595,7 +58536,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornasiantube.net^
 ||pornass.xyz^
 ||pornati.com^
-||pornatom.com^
 ||pornatrixa.com^
 ||pornattractive.net^
 ||pornaun18.com^
@@ -58620,9 +58560,9 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornbab.name^
 ||pornbaba.org^
 ||pornbaba.watch^
+||pornback.com^
 ||pornbado.com^
 ||pornbae18.net^
-||pornbag.com^
 ||pornbag.net^
 ||pornbaker.com^
 ||pornbalcony.com^
@@ -58721,6 +58661,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornbox.com^
 ||pornbox.org^
 ||pornbox.ru^
+||pornbox.site^
 ||pornbox.video^
 ||pornbox18.com^
 ||pornboxd.com^
@@ -58775,7 +58716,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porncandyshorts.com^
 ||porncannon.com^
 ||porncaper.com^
-||porncaptions.online^
 ||porncarbon.com^
 ||porncast.pro^
 ||porncastle.com^
@@ -58984,6 +58924,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porndig.mobi^
 ||porndig.pro^
 ||porndig.top^
+||porndigiora.com^
 ||porndik.com^
 ||porndike.com^
 ||porndior.com^
@@ -59165,7 +59106,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornexact.com^
 ||pornexam.com^
 ||pornexc18.com^
-||pornexd.com^
 ||pornexiva.com^
 ||pornexp.com^
 ||pornexpanse.com^
@@ -59242,6 +59182,10 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornfilmcx12.click^
 ||pornfilmcx12.cyou^
 ||pornfilmcx13.shop^
+||pornfilmcx16.cyou^
+||pornfilmcx16.shop^
+||pornfilmcx17.buzz^
+||pornfilmcx17.lat^
 ||pornfilmcx7.click^
 ||pornfilmcx8.cfd^
 ||pornfilmcx8.cyou^
@@ -59305,6 +59249,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornfoto.mobi^
 ||pornfoto.xyz^
 ||pornfoto3.site^
+||pornfoto4.site^
 ||pornframe.net^
 ||pornframes.com^
 ||pornfreaks.net^
@@ -60149,6 +60094,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornl.org^
 ||pornl.tube^
 ||pornlab.cc^
+||pornlab.studio^
 ||pornlab.xxx^
 ||pornlab365.com^
 ||pornlabhd.com^
@@ -60384,7 +60330,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornmovies-bay.com^
 ||pornmovies-bdsm.com^
 ||pornmovies-blowjob.com^
-||pornmovies-body.com^
 ||pornmovies-bunch.com^
 ||pornmovies-cove.com^
 ||pornmovies-enter.com^
@@ -60675,7 +60620,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porno-wife.com^
 ||porno-wonder.com^
 ||porno-x.pro^
-||porno-xxx.club^
 ||porno-xxx.red^
 ||porno-zastryala.com^
 ||porno-zhena.club^
@@ -60692,8 +60636,12 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porno100hyev.top^
 ||porno100k.com^
 ||porno102.com^
+||porno12.best^
+||porno12.buzz^
+||porno12.motorcycles^
 ||porno123.org^
 ||porno1234.com^
+||porno13.buzz^
 ||porno16.com^
 ||porno16.store^
 ||porno17.buzz^
@@ -60731,7 +60679,9 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porno31dq.cyou^
 ||porno31dq.shop^
 ||porno31el.cfd^
+||porno31el.cyou^
 ||porno31eq.cfd^
+||porno31eq.site^
 ||porno31z.shop^
 ||porno34.com^
 ||porno356.com^
@@ -60858,6 +60808,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porno666y.ru^
 ||porno69.blog^
 ||porno69.hu^
+||porno7.buzz^
 ||porno7.xxx^
 ||porno71.com^
 ||porno72.sbs^
@@ -60872,6 +60823,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porno777.org^
 ||porno777.pro^
 ||porno78.homes^
+||porno8.buzz^
 ||porno8.net^
 ||porno80.com^
 ||porno80a.shop^
@@ -60929,8 +60881,10 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porno82zc.shop^
 ||porno84.com^
 ||porno888.net^
+||porno9.buzz^
 ||porno90.online^
 ||porno97.com^
+||porno99.buzz^
 ||pornoabuelas.net^
 ||pornoaburrirse.com^
 ||pornoaccion.com^
@@ -60951,18 +60905,14 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornoaltyaziizlalt.shop^
 ||pornoaltyaziizle.cyou^
 ||pornoaltyaziizleaww.cfd^
-||pornoaltyazili.cfd^
 ||pornoaltyazili.click^
 ||pornoaltyazili.shop^
-||pornoaltyazilihd.cfd^
-||pornoaltyazilitube.cfd^
 ||pornoaltyazilitube.sbs^
 ||pornoaltyazilitube.shop^
 ||pornoaltyazilitubealt.shop^
 ||pornoaltyazilitubeaww.cfd^
 ||pornoaltyazilitubeaz.cyou^
 ||pornoaltyazilitubesx.cfd^
-||pornoaltyazilixxx.cfd^
 ||pornoaltyazilixxx.click^
 ||pornoaltyazilixxx.shop^
 ||pornoamadorxxx.com^
@@ -61032,7 +60982,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornobank.pl^
 ||pornobase.net^
 ||pornobasta.site^
-||pornobat.life^
 ||pornobaton.com^
 ||pornobay.org^
 ||pornobebe.com^
@@ -61530,6 +61479,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornohub.dk^
 ||pornohub.hu^
 ||pornohub.icu^
+||pornohub.info^
 ||pornohub.name^
 ||pornohub.pro^
 ||pornohub.top^
@@ -61560,7 +61510,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornoira.info^
 ||pornoitaliana.com^
 ||pornoitaliano.com^
-||pornoiva.best^
 ||pornoiva.blog^
 ||pornoiva.com^
 ||pornoiz12.shop^
@@ -61633,6 +61582,8 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornokase18.lat^
 ||pornokase19.cfd^
 ||pornokase19.click^
+||pornokase21.cyou^
+||pornokase21.lat^
 ||pornokase3.click^
 ||pornokase7.click^
 ||pornokase7.cyou^
@@ -61690,6 +61641,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornolandia.xxx^
 ||pornolands.click^
 ||pornolapka.art^
+||pornolapka.onl^
 ||pornolara2.blog^
 ||pornolargo.com^
 ||pornolatam.com^
@@ -62244,7 +62196,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornotorrent.es^
 ||pornotorrent.eu^
 ||pornotorrent.net^
-||pornotorrent.org^
 ||pornotorrent.top^
 ||pornototale.club^
 ||pornototale.com^
@@ -62276,14 +62227,10 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornotubey.com^
 ||pornotubo.com^
 ||pornotuga.com^
-||pornoturkce.cfd^
 ||pornoturkce1.help^
 ||pornoturkce2.help^
-||pornoturkcehd.cfd^
 ||pornoturkcehd.cyou^
 ||pornoturkcehd.shop^
-||pornoturkcetube.cfd^
-||pornoturkcexxx.cfd^
 ||pornoturkcexxx.click^
 ||pornoturkcexxx.shop^
 ||pornoturkish.link^
@@ -62332,9 +62279,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornovia12.cyou^
 ||pornovia15.cfd^
 ||pornovia7.click^
-||pornovia8.cfd^
-||pornovia8.cyou^
-||pornovia8.lat^
 ||pornovia9.cyou^
 ||pornovia9.lat^
 ||pornovid.cv^
@@ -62607,7 +62551,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornpicxxx.org^
 ||pornpig.com^
 ||pornpig.tube^
-||pornpilot.app^
 ||pornpin.com^
 ||pornpingo.com^
 ||pornpinky.com^
@@ -62898,12 +62841,10 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornsharing.com^
 ||pornsharing.mobi^
 ||pornshd.com^
-||pornshelter.info^
 ||pornsheriff.com^
 ||pornship.com^
 ||pornshocked.com^
 ||pornshoplyfter.com^
-||pornshops.com^
 ||pornshort.com^
 ||pornshorthd.com^
 ||pornshorts.xyz^
@@ -63000,6 +62941,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornsreal.com^
 ||pornsroom.com^
 ||pornssticky.com^
+||pornstacknex.info^
 ||pornstapler.com^
 ||pornstar.actor^
 ||pornstar.com^
@@ -63046,6 +62988,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornstarpic.net^
 ||pornstarplatinum.com^
 ||pornstarporntrends.com^
+||pornstarpost.com^
 ||pornstarq.com^
 ||pornstarrankings.com^
 ||pornstars.ai^
@@ -63059,6 +63002,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornstars4escort.com^
 ||pornstars4you.com^
 ||pornstarsathome.com^
+||pornstarsclub.net^
 ||pornstarscope.com^
 ||pornstarsexmagazines.com^
 ||pornstarsexplorer.com^
@@ -63112,7 +63056,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornstrip.com^
 ||pornstripgames.com^
 ||pornstudies.net^
-||pornstudio.pro^
 ||pornstudios.net^
 ||pornsub.autos^
 ||pornsub.baby^
@@ -63227,7 +63170,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porntin.com^
 ||porntinsel.com^
 ||porntire.com^
-||porntitans.com^
 ||porntl.com^
 ||porntn.com^
 ||pornto.me^
@@ -63260,7 +63202,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||porntown.shop^
 ||porntownx.com^
 ||porntracking18.com^
-||porntranny.net^
 ||porntranny.one^
 ||porntraveling.com^
 ||porntrend.lol^
@@ -63464,7 +63405,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornvideo.rodeo^
 ||pornvideo.sbs^
 ||pornvideo.team^
-||pornvideo.website^
 ||pornvideo.work^
 ||pornvideo.wtf^
 ||pornvideo1.com^
@@ -63524,7 +63464,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornvideos-japan.com^
 ||pornvideos-line.com^
 ||pornvideos-live.com^
-||pornvideos-love.com^
 ||pornvideos-match.com^
 ||pornvideos-mature.com^
 ||pornvideos-ok.com^
@@ -63582,7 +63521,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornvideostation.com^
 ||pornvideosthing.com^
 ||pornvideostip.com^
-||pornvideostv.com^
 ||pornvideostwink.click^
 ||pornvideosview.com^
 ||pornvideosvista.com^
@@ -63848,6 +63786,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornxplorer.com^
 ||pornxporn.org^
 ||pornxpres.info^
+||pornxpro.com^
 ||pornxqui.com^
 ||pornxrated.com^
 ||pornxs.net^
@@ -63858,6 +63797,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornxtane.com^
 ||pornxtasy.com^
 ||pornxteen.com^
+||pornxten18.com^
 ||pornxtheatre.com^
 ||pornxtik.com^
 ||pornxtine.com^
@@ -63876,6 +63816,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||pornxvox.com^
 ||pornxworks.com^
 ||pornxworks.org^
+||pornxxdig.info^
 ||pornxxnxx.com^
 ||pornxxs.com^
 ||pornxxs.shop^
@@ -64811,6 +64752,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||prostitutkikieva.men^
 ||prostitutkikrasnodara24.men^
 ||prostitutkikrasnodaraaget.com^
+||prostitutkikrasnodaracase.net^
 ||prostitutkikrasnodarag0als.info^
 ||prostitutkikrasnodaragood.com^
 ||prostitutkikrasnodaratut.info^
@@ -65656,7 +65598,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||qdsurvice.com^
 ||qdxiaowu.com^
 ||qdxqs.com^
-||qdyuandongjixie.com^
 ||qdzyhc.com^
 ||qe12653.com^
 ||qeonvaid.top^
@@ -65665,13 +65606,11 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||qertasa.com^
 ||qeuropeanporn.com^
 ||qfilm.tv^
-||qfqjd.com^
 ||qfs-ledgerbackup.com^
 ||qfzagk.com^
 ||qgdux.com^
 ||qgiyxfwf.top^
 ||qgw588.com^
-||qh4qgghuf8x.xyz^
 ||qhdbfkx.com^
 ||qhdpq1519.com^
 ||qhlycy.com^
@@ -65720,7 +65659,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||qinqinzui.sbs^
 ||qinwenhuayuandenanshia.cn^
 ||qinyetong.com^
-||qinzi99.com^
 ||qiqitv.info^
 ||qiquwen.com^
 ||qisisoft.com^
@@ -65735,7 +65673,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||qizesw.com^
 ||qizidehunwaiyu1.cn^
 ||qizidemimi5hanju.cn^
-||qj847.top^
 ||qj94.com^
 ||qjdy.cc^
 ||qjxjz.com^
@@ -66079,7 +66016,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||qxciw.com^
 ||qxysccy.com^
 ||qy0.ru^
-||qy484.top^
 ||qydns1.com^
 ||qylcd.com^
 ||qyule.tv^
@@ -66501,7 +66437,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||readtopmanga.com^
 ||readyescort.com^
 ||readysetcam.com^
-||readystripe.com^
 ||reaganfoxx.com^
 ||real-femdom.com^
 ||real-girls.net^
@@ -66670,7 +66605,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||realmomsonxxx.com^
 ||realmothersonincestporn.com^
 ||realnakedgirls.net^
-||realnakedwomen.com^
 ||realnewshome.com^
 ||realnovice.com^
 ||realnudegirls.com^
@@ -66821,6 +66755,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||redbogo10.com^
 ||redbogo11.com^
 ||redbogo12.com^
+||redbottomxxx.com^
 ||redcams.at^
 ||redcams.be^
 ||redcams.ch^
@@ -66924,7 +66859,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||redprn.com^
 ||redputa.com^
 ||redquill.net^
-||redsex.info^
 ||redsex.xxx^
 ||redsexa.com^
 ||redsexxxx.com^
@@ -67056,6 +66990,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||relaxmovs.com^
 ||relaxporn.online^
 ||relaxpornlist.top^
+||relaxsex.shop^
 ||relaxxxed.com^
 ||relaxxxtime.com^
 ||relayblog.com^
@@ -67086,7 +67021,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||renderotica.com^
 ||renderotique.com^
 ||reneerossvideos.com^
-||rengginang.store^
 ||renhuanxi.com^
 ||renhuanxi.xyz^
 ||renklihikayeler.com^
@@ -67258,7 +67192,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||rhinosjuggs.com^
 ||rhinoslist.com^
 ||rhinosreviews.com^
-||rhpad3m.mom^
 ||rhwz.cc^
 ||rhyxxw.com^
 ||rianpratama.com^
@@ -67395,7 +67328,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||rmlivecams.com^
 ||rmmlwfwy.com^
 ||rmmwkyxip.com^
-||rn769.top^
 ||rndee.com^
 ||rnk.bio^
 ||rnopo.com^
@@ -67623,7 +67555,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||rssxxx.com^
 ||rsteq.com^
 ||rsyouth.org^
-||rt841.top^
 ||rtdxjg.com^
 ||rtgallery.net^
 ||rthmmc.com^
@@ -68145,7 +68076,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||rz338.top^
 ||rz339.top^
 ||s-forum.biz^
-||s-venmo.com^
 ||s-xxx.com^
 ||s1.pics^
 ||s1s1s1.com^
@@ -68153,7 +68083,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||s3xporn.com^
 ||s3xus.com^
 ||s85a8q.top^
-||s8x8.info^
 ||sa23.top^
 ||saarbabes.de^
 ||sabachico.com^
@@ -68277,6 +68206,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||saltosaltosvermelhos.com^
 ||saltpetrol.lol^
 ||saltycams.com^
+||samaltmanis.gay^
 ||samanthagracecams.com^
 ||samanthasez.com^
 ||samarasex7.com^
@@ -68286,7 +68216,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sambapornobr.com^
 ||samenprive.nl^
 ||sameoldporn.com^
-||sameoldxxx.com^
 ||samesexblessing.info^
 ||sammistarfishfanclub.com^
 ||sammyboyforum.biz^
@@ -68334,12 +68263,10 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sandycreekboers.com^
 ||sangdie.cn^
 ||sange.forum^
-||sangeetsarees.com^
 ||sangetube.pw^
 ||sangnai.cn^
 ||sangti.cn^
 ||sangxiang.cn^
-||sanic.ch^
 ||sanitizes-it.com^
 ||sanjalica.com^
 ||sanjanaescorts.com^
@@ -68394,6 +68321,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sari-sander.com^
 ||saricamescortgo.xyz^
 ||sarinaandrobin.com^
+||sariyerescort.baby^
 ||sariyerescortgo.xyz^
 ||sarkoyescortmax.site^
 ||sartridge.lol^
@@ -68730,6 +68658,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||search.porn^
 ||search.xxx^
 ||search-adults.com^
+||search-career.com^
 ||search4porn.com^
 ||search4porn.net^
 ||search4sex.biz^
@@ -68764,7 +68693,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||secretbenefits.com^
 ||secretcams.com^
 ||secretcrush.ai^
-||secretdate.site^
 ||secretdatingclub.com^
 ||secretdesires.ai^
 ||secretfans.net^
@@ -68797,6 +68725,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||secretx.cam^
 ||sectretsclips.com^
 ||secure-auth-portal.com^
+||secure-wellsfargobank.com^
 ||securefoxserver.com^
 ||securegfm2.com^
 ||security-paypal.com^
@@ -69120,7 +69049,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||seselah.com^
 ||seseml.com^
 ||seseporn.com^
-||sesexs2.cc^
 ||sesono.com^
 ||sesou.xyz^
 ||sessiongirlclips.com^
@@ -69140,6 +69068,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sethciferri.com^
 ||sethere.com^
 ||setmilfxxx.com^
+||setpornmovies.com^
 ||setpornvideos.com^
 ||sets4all.com^
 ||sets4me.com^
@@ -69201,6 +69130,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sex-board.com^
 ||sex-bomb.com^
 ||sex-bongacams.com^
+||sex-boy.com^
 ||sex-cam.live^
 ||sex-cam.love^
 ||sex-cam-reviews.net^
@@ -69253,7 +69183,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sex-escort-intim.online^
 ||sex-escort-models.com^
 ||sex-escort-women.online^
-||sex-escorte-bergen.online^
 ||sex-eskort.pro^
 ||sex-experten.net^
 ||sex-files.net^
@@ -69327,7 +69256,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sex-movie.site^
 ||sex-movies.biz^
 ||sex-movies.cfd^
-||sex-na-rabote.online^
 ||sex-na-stole.club^
 ||sex-near-me.top^
 ||sex-o-mania.de^
@@ -69356,11 +69284,9 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sex-rankings.com^
 ||sex-raskaz.ru^
 ||sex-reviews.net^
-||sex-roksa-escort.online^
 ||sex-ru.org^
 ||sex-ru.top^
 ||sex-ru.vip^
-||sex-russia-escort.online^
 ||sex-russiaescort.online^
 ||sex-service-escort.online^
 ||sex-seznamka.info^
@@ -69506,6 +69432,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sex-videos.cc^
 ||sex-videos.homes^
 ||sex-videos.kim^
+||sex-videos.lat^
 ||sex-videos.live^
 ||sex-videos.lol^
 ||sex-videos.rodeo^
@@ -69533,7 +69460,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sex-zbzoob.com^
 ||sex-znakomstva.online^
 ||sex-zoo.net^
-||sex-zoznamka24.sk^
 ||sex-zrelie.ru^
 ||sex0098.com^
 ||sex021.com^
@@ -69817,7 +69743,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexbess.com^
 ||sexbezoblomaanapa.ru^
 ||sexbhabhi.com^
-||sexbigass.com^
 ||sexbillederne.dk^
 ||sexbim-plus.com^
 ||sexbimvn.blog^
@@ -70094,7 +70019,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexdatelijn.nl^
 ||sexdatemaastricht.nl^
 ||sexdatemilfs.net^
-||sexdatenetwork.com^
 ||sexdatenorge24.com^
 ||sexdateonline.nl^
 ||sexdateparade.nl^
@@ -70134,7 +70058,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexdela.com^
 ||sexdelights.com^
 ||sexdelivery.com^
-||sexdem.pro^
 ||sexden21.life^
 ||sexden22.life^
 ||sexden23.life^
@@ -70192,6 +70115,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexdosug.com^
 ||sexdots.com^
 ||sexdownload.lol^
+||sexdrivethemovie.com^
 ||sexdubai.club^
 ||sexdude.net^
 ||sexdug.net^
@@ -70214,7 +70138,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexeactu.com^
 ||sexeb.org^
 ||sexebeurette.fr^
-||sexebony.online^
 ||sexebordeaux.eu^
 ||sexebrest.eu^
 ||sexecams.org^
@@ -70244,7 +70167,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexelite.fun^
 ||sexemarseille.eu^
 ||sexemix.com^
-||sexemodel.com^
 ||sexemontpellier.eu^
 ||sexemotions.com^
 ||sexempires.com^
@@ -70269,7 +70191,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexervaringdelen.nl^
 ||sexervaringendelen.nl^
 ||sexescort-prague.com^
-||sexescort-russia.online^
 ||sexescorts.xyz^
 ||sexescortsdubai.com^
 ||sexescortsukraine.online^
@@ -70863,7 +70784,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexmetrijpevrouwen.nl^
 ||sexmetvrouw.nl^
 ||sexmex.cam^
-||sexmex.click^
 ||sexmex.porn^
 ||sexmex.xxx^
 ||sexmexfull.com^
@@ -71135,7 +71055,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexonafavela.shop^
 ||sexone.com^
 ||sexonic.club^
-||sexonline.life^
 ||sexonlive.net^
 ||sexonly.su^
 ||sexonly.top^
@@ -71262,6 +71181,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexporncomics.com^
 ||sexporner.com^
 ||sexpornfree.click^
+||sexporngames.com^
 ||sexporngay.com^
 ||sexpornhat.com^
 ||sexpornhouse.com^
@@ -71311,7 +71231,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexpret.com^
 ||sexpreviews.eu^
 ||sexprime.xxx^
-||sexprivaty24.sk^
 ||sexprm.guru^
 ||sexprohd.com^
 ||sexprontube.com^
@@ -71807,6 +71726,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexualolders.com^
 ||sexualpaedagogik.de^
 ||sexualparadise.com^
+||sexualpositionsfree.com^
 ||sexualrightsdatabase.org^
 ||sexualsong.com^
 ||sexualstories.club^
@@ -71912,15 +71832,16 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexvideos-gratis.com^
 ||sexvideos-hd.com^
 ||sexvideos-hoop.com^
+||sexvideos-hot.com^
 ||sexvideos-japan.com^
 ||sexvideos-line.com^
 ||sexvideos-lug.com^
-||sexvideos-mature.com^
 ||sexvideos-ok.com^
 ||sexvideos-okay.com^
 ||sexvideos-peep.com^
 ||sexvideos-point.com^
 ||sexvideos-scan.com^
+||sexvideos-scape.com^
 ||sexvideos-side.com^
 ||sexvideos-top.com^
 ||sexvideos-xxx.net^
@@ -72118,6 +72039,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexx.com^
 ||sexx.tw^
 ||sexx-xxxl.com^
+||sexxarabic.com^
 ||sexxasochi.one^
 ||sexxclips.com^
 ||sexxez.com^
@@ -72154,10 +72076,12 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexxtver.club^
 ||sexxul.love^
 ||sexxuria.com^
+||sexxusev.one^
 ||sexxvn.com^
 ||sexxvolg.now^
 ||sexxvolg.tel^
 ||sexxx.city^
+||sexxxaprm.life^
 ||sexxxdonetsk.com^
 ||sexxxesimf.life^
 ||sexxxgays.com^
@@ -72315,6 +72239,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexy24.net^
 ||sexy245.com^
 ||sexy355.com^
+||sexy3dpussy.com^
 ||sexy4arab.com^
 ||sexy601.com^
 ||sexy605.com^
@@ -72376,6 +72301,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexyblack.org^
 ||sexyblackmovies.com^
 ||sexyblackpussy.com^
+||sexyblackpussy.org^
 ||sexyblond.com^
 ||sexyblondies.com^
 ||sexybluefilm.com^
@@ -72521,12 +72447,14 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sexyhomewife.com^
 ||sexyhomewives.com^
 ||sexyhotmilf.com^
+||sexyhours.com^
 ||sexyhouse.top^
 ||sexyhub.com^
 ||sexyhub.live^
 ||sexyhub.me^
 ||sexyhub.org^
 ||sexyhugetits.com^
+||sexyhydrabadescorts.com^
 ||sexyico.com^
 ||sexyidol.jp^
 ||sexyincest.com^
@@ -73162,6 +73090,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||shemalelisting.com^
 ||shemalelive-cams.com^
 ||shemalelivecams.net^
+||shemalelocals.com^
 ||shemaleloveme.com^
 ||shemalelover.net^
 ||shemalelovesearch.com^
@@ -73623,8 +73552,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||siesuchtsex.ch^
 ||siesuchtsex.eu^
 ||sieudam.asia^
-||sieudam.pro^
-||sieudamsexvietnam.com^
 ||sieusex.net^
 ||sifangtv.cc^
 ||siffredirocco.com^
@@ -73654,6 +73581,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||siliconeporn.com^
 ||silicongirls.store^
 ||siliconwives.com^
+||silivriescort.baby^
 ||silivriescortgo.xyz^
 ||silivriescortnude.site^
 ||silkafter.com^
@@ -73861,6 +73789,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sislident.com^
 ||sisliescort.net^
 ||sisliescort2.lol^
+||sisliescortara1.site^
 ||sisliescortgo.xyz^
 ||sisliescortpassion.site^
 ||sisliescortz.com^
@@ -73871,6 +73800,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sisporno.com^
 ||sisswap.com^
 ||sissy-university.com^
+||sissycrossdresser.com^
 ||sissydating.nl^
 ||sissyflix.com^
 ||sissyfuck.com^
@@ -73904,6 +73834,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||site-rose.com^
 ||sitealts.com^
 ||siteanalyzer.pro^
+||sitebuilderanalytics.com^
 ||sitedesex.com^
 ||sitejaguar33.site^
 ||siteripbb.org^
@@ -74278,7 +74209,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||smalltitdistrict.com^
 ||smalltits.party^
 ||smalltits.pics^
-||smalltits.wtf^
 ||smalltitsgirls.com^
 ||smalltitsteens.com^
 ||smalltitweb.com^
@@ -74807,7 +74737,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||spanishcruising.com^
 ||spanishties.com^
 ||spanishxbarbiie.com^
-||spanishxh.life^
 ||spankandbang.com^
 ||spankbang.com^
 ||spankbang.de^
@@ -74837,7 +74766,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||spankingbailey.com^
 ||spankingblog.com^
 ||spankingboysvideo.com^
-||spankingchat.com^
 ||spankingcommunity.com^
 ||spankingdigital.com^
 ||spankingdirectory.com^
@@ -74988,7 +74916,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||spiritovetton.com^
 ||spitting-girls.com^
 ||spittingbitches.com^
-||spittingfemdomclips.com^
 ||spitzetitten.net^
 ||spizoo.com^
 ||spizoofaps.com^
@@ -75104,7 +75031,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||squirtvr.com^
 ||squirtyslut.com^
 ||sqymd.com^
-||sr838.top^
 ||sravx.com^
 ||srbam.com^
 ||sree-callgirl.com^
@@ -75116,7 +75042,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||srquanfen.com^
 ||srrxxx.com^
 ||ss12362.com^
-||ss860.top^
 ||ssbbwaiporn.com^
 ||ssccxx.com^
 ||sscykq.com^
@@ -75652,7 +75577,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||stylefetish-industries.com^
 ||stzhibo.com^
 ||su7dh.live^
-||su965.top^
 ||suaesposa.com^
 ||suamulher.com^
 ||sub-or-dom.com^
@@ -75806,6 +75730,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||sultanbokep.com^
 ||sultanbokep.org^
 ||sultanbokep.site^
+||sultangaziescort.baby^
 ||sultangaziescort.org^
 ||sultangaziescortgo.xyz^
 ||sultangaziescorts.net^
@@ -75993,6 +75918,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||superquente.com^
 ||supersex.eu^
 ||supersexeamateur.com^
+||supersexstore.com^
 ||supersexvideos.com^
 ||supersexy.de^
 ||supersexyescorts.com^
@@ -76036,7 +75962,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||suppersman.com^
 ||support.xxx^
 ||supremecleandetail.com^
-||supremexh.world^
 ||suratcallgirl.in^
 ||surbhirana.biz^
 ||sureporn.com^
@@ -76279,6 +76204,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||swingerdatenbank.com^
 ||swingeren.dk^
 ||swingerfeed.com^
+||swingerfinden.com^
 ||swingerfinden.de^
 ||swingerlorsha.com^
 ||swingermovies.org^
@@ -76858,6 +76784,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||tbd360.com^
 ||tbdarling.com^
 ||tbea-ny.com^
+||tbh.gay^
 ||tbib.org^
 ||tblop.com^
 ||tboston.com^
@@ -77191,6 +77118,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||teenones.com^
 ||teenoo.com^
 ||teenopendiary.com^
+||teenorange.com^
 ||teenorgasmmvs.shop^
 ||teenorgy.club^
 ||teenorgy.video^
@@ -77243,6 +77171,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||teenpornpopo.com^
 ||teenpornpot.com^
 ||teenpornpussy.com^
+||teenpornreal.com^
 ||teenporns.org^
 ||teenpornsearch.net^
 ||teenpornstorage.biz^
@@ -77269,7 +77198,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||teenport.com^
 ||teenpov.net^
 ||teenpronbox.online^
-||teenpunci.info^
 ||teenpureporn.com^
 ||teenpussy.me^
 ||teenpussycum.com^
@@ -77352,6 +77280,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||teensexvideos.site^
 ||teensexvideos.xxx^
 ||teensexwebcams.xyz^
+||teensexwow.com^
 ||teensexx.buzz^
 ||teensexx.lat^
 ||teensexx.mom^
@@ -77473,6 +77402,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||teenxxx-free.com^
 ||teenxxx-tube.com^
 ||teenxxxcore.com^
+||teenxxxex.cc^
 ||teenxxxhd.com^
 ||teenxxxhub.com^
 ||teenxxxlab.com^
@@ -78076,7 +78006,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||theeroticpics.com^
 ||theeroticreview.com^
 ||theescortinfo.com^
-||theescortsex.site^
 ||thefamilysextube.com^
 ||thefantazy.com^
 ||thefap.net^
@@ -78238,7 +78167,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||thelivesexcams.org^
 ||thelordofporn.com^
 ||thelosex.gr^
-||theluckyman.com^
 ||themagicalsexbook.com^
 ||themajor.online^
 ||themall.sexy^
@@ -78428,7 +78356,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||thesextourist.berlin^
 ||thesextube.net^
 ||thesexvideo.com^
-||thesexvids.com^
 ||thesexxxtons.com^
 ||thesexygirlsinlingerie.com^
 ||thesexypics.com^
@@ -78495,7 +78422,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||thicca.live^
 ||thichsexvn.com^
 ||thickasianporn.com^
-||thickass.wtf^
 ||thickassporn.com^
 ||thickcash.com^
 ||thickdesigirls.com^
@@ -78662,7 +78588,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||tiava.work^
 ||tiavaporn.club^
 ||tibiacams.com^
-||tickerwell.com^
 ||ticketshow.cam^
 ||tickle.porn^
 ||tickleabuse.com^
@@ -78910,7 +78835,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||tktube.com^
 ||tktube.ru^
 ||tktubexxx.com^
-||tkxs8.com^
 ||tladies.com^
 ||tlagay.com^
 ||tlagaylive.com^
@@ -79483,7 +79407,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||tormanga.com^
 ||tormenttube.com^
 ||torn-porn.com^
-||torok.store^
 ||toronto-escorts.info^
 ||torontoasianescorts.info^
 ||torontoescorts.online^
@@ -79526,7 +79449,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||totallyundressed.com^
 ||totalsupercuties.com^
 ||totalsupercuties.net^
-||totaltrannyaccess.com^
 ||totembabes.com^
 ||totempole666.com^
 ||totenshxt.com^
@@ -79754,7 +79676,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||tram-cartoons.com^
 ||tram-pararam.com^
 ||trampararamporn.com^
-||trampcams.com^
 ||tramplesites.com^
 ||tramsex.com^
 ||tranchan.net^
@@ -79899,7 +79820,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||transexbig.com^
 ||transexdomination.com^
 ||transexescort.online^
-||transexescorts.online^
 ||transexforum.com^
 ||transexjapan.com^
 ||transexmodena.it^
@@ -80115,7 +80035,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||trouveunecougar.be^
 ||trouveunecougar.fr^
 ||trovagnocca.com^
-||trovasesso.com^
 ||troxnafebrava.com^
 ||troyescorts.com^
 ||trs-yacht.com^
@@ -80153,6 +80072,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||truesex.life^
 ||truesex.pro^
 ||trueswingers.com^
+||truethaigirls.com^
 ||truetwinkpornmovies.click^
 ||truetwinksexmovies.click^
 ||truetwinksexvideos.click^
@@ -80415,7 +80335,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||tube.net^
 ||tube.nu^
 ||tube-asianporn.com^
-||tube-dick.com^
 ||tube-for-porn.com^
 ||tube-fuck.net^
 ||tube-fuck.pro^
@@ -80591,6 +80510,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||tubelesbianxxx.com^
 ||tubelists.com^
 ||tubelol.com^
+||tubelovely.com^
 ||tubemature-porn.com^
 ||tubematureporn.com^
 ||tubemaximum.com^
@@ -80801,7 +80721,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||tubexxx.win^
 ||tubexxx.wtf^
 ||tubexxx4k.com^
-||tubexxxbox.com^
 ||tubexxxcams.com^
 ||tubexxxdot.com^
 ||tubexxxfind.com^
@@ -80919,51 +80838,32 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||turkcedublajporno.com^
 ||turkceerotikporno.shop^
 ||turkceerotikseks.shop^
-||turkcehardcore.cfd^
-||turkcehardcorehd.cfd^
-||turkcehardporno.cfd^
 ||turkcehardporno.cyou^
-||turkcehardtube.cfd^
 ||turkcepornca.shop^
 ||turkceporncb.shop^
 ||turkceporncc.shop^
 ||turkcepornoarsiv.cyou^
-||turkcepornohd.cfd^
 ||turkcepornohd.cyou^
-||turkcepornoizle.cfd^
 ||turkcepornoizle.cyou^
 ||turkcepornoizle.shop^
 ||turkcepornokoleksiyon.shop^
 ||turkcepornosahne.shop^
-||turkcepornostream.cfd^
-||turkcepornotube.cfd^
 ||turkcepornotube.cyou^
-||turkcepornowatch.cfd^
-||turkcepornoxxx.cfd^
 ||turkcepornzd.shop^
 ||turkceseksarsiv.shop^
-||turkcesekshd.cfd^
-||turkceseksizle.cfd^
 ||turkceseksizle.shop^
-||turkceseksporno.cfd^
 ||turkcesekssahne.shop^
-||turkceseksstream.cfd^
-||turkcesekstube.cfd^
 ||turkceseksvideo.cyou^
 ||turkceseksvideo.shop^
 ||turkcesertporno.shop^
 ||turkcesertseks.shop^
 ||turkcesex.com^
-||turkcevideohd.cfd^
-||turkcevideotube.cfd^
 ||turkcexxx.cyou^
-||turkcexxxhd.cfd^
 ||turkcexxxizle.cfd^
-||turkcexxxstream.cfd^
-||turkcexxxtube.cfd^
 ||turkceyetiskinfilm.shop^
 ||turkceyetiskinseks.shop^
 ||turkelcerrahisidernegi.com^
+||turkelireklamcilik.com^
 ||turkescortbayanlar.com^
 ||turkhdpornizle.com^
 ||turkhub1.com^
@@ -81081,12 +80981,12 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||twatnet.com^
 ||twdvd.com^
 ||tweennest.com^
-||twerk.wtf^
 ||twerkqueens.com^
 ||twero.com^
 ||twidouga.net^
 ||twiinklecallgirl.in^
 ||twikoko.com^
+||twincitiesescorts.com^
 ||twink-guys.com^
 ||twink-porn.vip^
 ||twink-tube.com^
@@ -81252,7 +81152,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||txxxvideo.online^
 ||txxxvideo.org^
 ||txxxvideos.com^
-||ty015.top^
 ||tybilan.com^
 ||tybito.com^
 ||tyche.site^
@@ -81398,7 +81297,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ugsex.com^
 ||ugy093.top^
 ||uh-ems.net^
-||uh377.top^
 ||uhbabe.com^
 ||uhdgaymovies.click^
 ||uhdpornclips.cc^
@@ -81626,7 +81524,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||unboundbabes.com^
 ||uncams.com^
 ||uncehentai.com^
-||unceleb.com^
 ||uncen.org^
 ||uncenav.com^
 ||uncensored.porn^
@@ -81732,6 +81629,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||unduh.website^
 ||unebaise.com^
 ||unexpectedxxx.com^
+||unfallanalyse.hamburg^
 ||ungamusar.biz^
 ||unhentai.com^
 ||unhinged.ai^
@@ -81747,6 +81645,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||uniporntube.com^
 ||uniquebondage.com^
 ||uniquepornvideos.com^
+||uniquesexycash.com^
 ||uniquexxxvideos.com^
 ||unistart.eu^
 ||unite.com^
@@ -81923,6 +81822,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||upskirtstars.com^
 ||upskirtviewers.com^
 ||upslut.com^
+||upsluth794.shop^
 ||upslutj375.shop^
 ||upteenxxx.com^
 ||uptosex.com^
@@ -81935,7 +81835,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||upzoon.com^
 ||uq229.top^
 ||uqdet1519.com^
-||ur603.top^
 ||urabonic.com^
 ||urabukkake.com^
 ||uralesbian.com^
@@ -82279,7 +82178,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||vdsblog.guru^
 ||vdsblog.ink^
 ||vdul.tv^
-||ve485.top^
 ||veca.lol^
 ||vecchifilmporno.com^
 ||vecinabella.com^
@@ -83159,7 +83057,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||viralsexvideos.online^
 ||viralsma.shop^
 ||viralthots.tv^
-||viralvideo.asia^
 ||viralvideo2026.lol^
 ||viralvideosporno.com^
 ||viralvideotube.sbs^
@@ -83222,7 +83119,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||virtualrealtrans.com^
 ||virtualsex.world^
 ||virtualstripper.pro^
-||virtualstrippers.pro^
 ||virtualsuccubus.com^
 ||virtualtaboo.com^
 ||virtualxporn.com^
@@ -83367,7 +83263,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||vlxx.rip^
 ||vlxx.rocks^
 ||vlxx.sex^
-||vlxx.world^
 ||vlxx.wtf^
 ||vlxx.xxx^
 ||vlxx69.net^
@@ -83554,6 +83449,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||voyeurvideo.pro^
 ||voyeurvixenx.com^
 ||voyeurwc.com^
+||voyeurweb.asia^
 ||voyeurweb.com^
 ||voyeurwebz.com^
 ||voyeurxxx.cc^
@@ -83819,7 +83715,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||wangpanhui.com^
 ||wangpans.com^
 ||wangqiansiwang.com^
-||wangucard.com^
 ||wanguolp.com^
 ||wangyeming.com^
 ||wank.com^
@@ -84071,7 +83966,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||wdrxi.com^
 ||we-rate.com^
 ||we-rock.cc^
-||we899.top^
 ||wealthywomandating.com^
 ||wealtrad.com^
 ||weareforemost.com^
@@ -84143,7 +84037,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||webcamdancers.com^
 ||webcamdare.com^
 ||webcamdefilles.com^
-||webcamdevils.com^
 ||webcamdevochka.com^
 ||webcamdolls.info^
 ||webcamdreams.com^
@@ -84228,6 +84121,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||webcamsexlife.nl^
 ||webcamsexpin.com^
 ||webcamsexshop.nl^
+||webcamsexsites.com^
 ||webcamsextubes.com^
 ||webcamsexvideo.nl^
 ||webcamsexx.nl^
@@ -84348,6 +84242,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||wecamgirls.com^
 ||wecamgirls24.com^
 ||wechange.me^
+||wecima.singles^
 ||weddd.top^
 ||wedgiebuddies.net^
 ||wedgietube.com^
@@ -84396,6 +84291,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||welivura.beauty^
 ||well-calm.com^
 ||wellheeledblog.com^
+||wellhungmen.com^
 ||wellhungtgirls.com^
 ||wellindianporn.com^
 ||wellporn.com^
@@ -84534,7 +84430,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||wexcams.com^
 ||wexxx.net^
 ||wezporn.com^
-||wf264.top^
 ||wfbrood.com^
 ||wfe-team.de^
 ||wfqhhg.com^
@@ -84549,7 +84444,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||whatboyswant.com^
 ||whatcams.com^
 ||whatevs.net^
-||whatsapps.org^
 ||whatsfappened.com^
 ||whatslove.ai^
 ||whatsmeet.com^
@@ -85061,7 +84955,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||wooow.ca^
 ||woor.pl^
 ||woploveyhn.click^
-||workbootsshop.com^
 ||workclose2home.com^
 ||workinmenxxx.com^
 ||workoutbitches.com^
@@ -85074,6 +84967,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||world3d.biz^
 ||world4ufree.deals^
 ||world4ufree.dev^
+||world4ufree.gay^
 ||worldanything.com^
 ||worldbbwp.com^
 ||worldbdsm.net^
@@ -85176,7 +85070,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||wphours.com^
 ||wpk842.top^
 ||wporncomics.com^
-||wq538.top^
 ||wqdfmlw.top^
 ||wqzb268.com^
 ||wreckedher.com^
@@ -85344,7 +85237,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||wxxs8.cc^
 ||wxxuexin.com^
 ||wxznjl.com^
-||wy-wl.com^
 ||wy428.top^
 ||wy472.top^
 ||wy476.top^
@@ -85704,6 +85596,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xasian.com^
 ||xasian.org^
 ||xasiancamgirls.com^
+||xasianx.com^
 ||xasiat.com^
 ||xattract.com^
 ||xavxx.com^
@@ -86354,6 +86247,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xinzhengjob.com^
 ||xiongnengrounengbiandama.cn^
 ||xipics.com^
+||xiporno.mobi^
 ||xiqinkeji.com^
 ||xir621.top^
 ||xisvideos.net^
@@ -86380,12 +86274,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xixtube.info^
 ||xizmitescort.com^
 ||xj-dlx.com^
-||xjai4.com^
-||xjai5.com^
-||xjai6.com^
-||xjai7.com^
-||xjai8.com^
-||xjai9.com^
 ||xjapanesexxxx.com^
 ||xjaps.com^
 ||xjav.tube^
@@ -86405,7 +86293,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xkk555.com^
 ||xkorean.com^
 ||xksb7.com^
-||xkwyw.sbs^
 ||xkzhongzhi.com^
 ||xl-gaytube.com^
 ||xl-porn.com^
@@ -86770,6 +86657,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xnxx.cm^
 ||xnxx.co^
 ||xnxx.com^
+||xnxx.cool^
 ||xnxx.cyou^
 ||xnxx.de^
 ||xnxx.dev^
@@ -86854,6 +86742,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xnxx-movs.com^
 ||xnxx-nl.com^
 ||xnxx-porn.cfd^
+||xnxx-porn.icu^
 ||xnxx-porn.info^
 ||xnxx-porno.com^
 ||xnxx-pornos.com^
@@ -87499,7 +87388,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xrateduniversity.com^
 ||xraws.com^
 ||xrbrands.com^
-||xredcams.com^
 ||xreels.co^
 ||xreels.com^
 ||xrest24.net^
@@ -87705,7 +87593,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xvidchat.com^
 ||xviddd.com^
 ||xviddeos.com^
-||xvide.mobi^
 ||xvideis.com^
 ||xvideo.bid^
 ||xvideo.blog^
@@ -87758,7 +87645,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xvideos.dad^
 ||xvideos.de^
 ||xvideos.es^
-||xvideos.fit^
 ||xvideos.gold^
 ||xvideos.gratis^
 ||xvideos.guru^
@@ -87783,8 +87669,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xvideos.tax^
 ||xvideos.tube^
 ||xvideos.wiki^
-||xvideos.wine^
-||xvideos.works^
 ||xvideos.xxx^
 ||xvideos-amateur-movie.com^
 ||xvideos-ar.com^
@@ -88013,6 +87897,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xvidoes.co^
 ||xvidoes.pro^
 ||xvidpornhub.com^
+||xvids.pro^
 ||xvids.win^
 ||xvids8.com^
 ||xvidshot.club^
@@ -88192,7 +88077,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxjsp.com^
 ||xxk.mobi^
 ||xxl-freeporn.com^
-||xxl-sexflatrate.com^
 ||xxlanal.com^
 ||xxlbukkake.com^
 ||xxlclips.live^
@@ -88213,6 +88097,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxmature.com^
 ||xxmmcc.com^
 ||xxmotion.com^
+||xxmovz.com^
 ||xxmovz.net^
 ||xxmvids.site^
 ||xxn.su^
@@ -88937,7 +88822,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxdottube.com^
 ||xxxdownload.buzz^
 ||xxxdownload.net^
-||xxxdrill.com^
 ||xxxdrop.net^
 ||xxxdude.net^
 ||xxxdump.nl^
@@ -89323,7 +89207,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxmom.net^
 ||xxxmom.pro^
 ||xxxmom.sbs^
-||xxxmom.site^
 ||xxxmom.su^
 ||xxxmom.tube^
 ||xxxmomandson.org^
@@ -89375,7 +89258,9 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxmovies-point.com^
 ||xxxmovies-porn.com^
 ||xxxmovies-show.com^
+||xxxmovies-side.com^
 ||xxxmovies-top.com^
+||xxxmovies-tube.com^
 ||xxxmovies-wrap.com^
 ||xxxmovies5.com^
 ||xxxmoviesbag.com^
@@ -89452,7 +89337,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxo5.com^
 ||xxxokko.com^
 ||xxxoldandyoung.com^
-||xxxom.com^
 ||xxxomg.com^
 ||xxxones.com^
 ||xxxonipad.net^
@@ -89739,6 +89623,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxstem.com^
 ||xxxstereo.com^
 ||xxxstoryxxx.com^
+||xxxstrada.com^
 ||xxxstreams.com^
 ||xxxstreams.eu^
 ||xxxstreams.org^
@@ -89835,6 +89720,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxtube-love.com^
 ||xxxtube-mash.com^
 ||xxxtube-mature.com^
+||xxxtube-mod.com^
 ||xxxtube-mode.com^
 ||xxxtube-ok.com^
 ||xxxtube-okay.com^
@@ -89847,6 +89733,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxtube-reward.com^
 ||xxxtube-run.com^
 ||xxxtube-set.com^
+||xxxtube-side.com^
 ||xxxtube-spot.com^
 ||xxxtube-videos.com^
 ||xxxtube-win.com^
@@ -89914,6 +89801,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxtubered.com^
 ||xxxtubereview.com^
 ||xxxtuberise.com^
+||xxxtubes.biz^
 ||xxxtubes.club^
 ||xxxtubes.online^
 ||xxxtubes.party^
@@ -89923,6 +89811,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxtubeset.com^
 ||xxxtubeside.com^
 ||xxxtubesign.com^
+||xxxtubesoul.com^
 ||xxxtubesplit.com^
 ||xxxtubestock.com^
 ||xxxtubestream.com^
@@ -89999,7 +89888,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxvideo.skin^
 ||xxxvideo.to^
 ||xxxvideo.vip^
-||xxxvideo.wiki^
 ||xxxvideo.work^
 ||xxxvideo.world^
 ||xxxvideo.wtf^
@@ -90049,6 +89937,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxvideos-cloud.com^
 ||xxxvideos-club.com^
 ||xxxvideos-dot.com^
+||xxxvideos-dump.com^
 ||xxxvideos-fetish.com^
 ||xxxvideos-free.com^
 ||xxxvideos-fuck.com^
@@ -90084,6 +89973,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxvideosclub.com^
 ||xxxvideoscompletos.com^
 ||xxxvideoscore.com^
+||xxxvideosdeep.com^
 ||xxxvideosdesi.com^
 ||xxxvideosdot.com^
 ||xxxvideosex.click^
@@ -90116,6 +90006,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxvideosnote.com^
 ||xxxvideosone.com^
 ||xxxvideospat.com^
+||xxxvideospoint.com^
 ||xxxvideosref.com^
 ||xxxvideosrise.com^
 ||xxxvideosroll.com^
@@ -90288,7 +90179,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xxxxxxxxxx.cc^
 ||xxxxzone.com^
 ||xxxy.me^
-||xxxyep.com^
 ||xxxyeshd.com^
 ||xxxyfilms.com^
 ||xxxymovies.com^
@@ -90323,6 +90213,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||xyedav.com^
 ||xyesporn.com^
 ||xyfxzx.com^
+||xygsav.buzz^
 ||xygsav.com^
 ||xyhs666.com^
 ||xyi.mobi^
@@ -90529,6 +90420,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ye999.top^
 ||yeabunny.com^
 ||yeahcam.com^
+||yeahtube.net^
 ||yeaxxx.com^
 ||yed-9.com^
 ||yed4k.com^
@@ -90738,7 +90630,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||ym1188.com^
 ||ym2012.com^
 ||ym588.cn^
-||ym797.top^
 ||ymature.com^
 ||ymeswkj.com^
 ||ymgal.games^
@@ -91026,6 +90917,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||youporn.xxx^
 ||youporn.zone^
 ||youporn-deutsch.biz^
+||youporn-deutsch.com^
 ||youporn-gay.work^
 ||youporn-gratis.com^
 ||youporn-porn.cloud^
@@ -91157,7 +91049,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||yourixin.com^
 ||yourlesbians.com^
 ||yourlive.webcam^
-||yourlivewebcam.com^
 ||yourlocalsluts.com^
 ||yourlust.com^
 ||yourlusthq.com^
@@ -91278,7 +91169,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||yrporno.com^
 ||yrprno.com^
 ||ys-sz.com^
-||ys141.top^
 ||ys508.com^
 ||ysbl.cc^
 ||ysdabc.com^
@@ -91585,7 +91475,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||yv587.top^
 ||yv588.top^
 ||yw1949.com^
-||yw3356.com^
 ||ywavx.com^
 ||ywdh2.buzz^
 ||ywdyj.com^
@@ -91654,6 +91543,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||yzxykgs.com^
 ||yzysxx.lol^
 ||yzyyjc.com^
+||yzzjav.buzz^
 ||yzztdq188.com^
 ||z-celebs.com^
 ||z-filmz-originals.com^
@@ -92034,6 +91924,7 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||zkz40.com^
 ||zl21.top^
 ||zldh2.cfd^
+||zllxxxllz.com^
 ||zloescher.com^
 ||zlovedoll.com^
 ||zlstainless.com^
@@ -92321,7 +92212,6 @@ search.brave.com##body:matches-path(/[?&]q=[^&]*(?:porn|porno|pornografi|pornogr
 ||zwlyfz.com^
 ||zwmchina.com^
 ||zwxjx.com^
-||zx211.top^
 ||zxctube.com^
 ||zxczs1519.com^
 ||zxhk8.com^
